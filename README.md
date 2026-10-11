@@ -1,115 +1,230 @@
-# AI/ML Engineering Portfolio — FlyRank General AI Fluency
+<div align="center">
 
-**Creator:** Yasmeen Azmat Ali  
-**Live portfolio:** https://yasmeen-portfolio-1.netlify.app/  
-**Project:** General AI Fluency Impact Project (FlyRank; approved October 5, 2026)
+# ✦ Yasmeen Azmat Ali
+### AI/ML Engineering Portfolio
 
-## Purpose and audience
+**Applied AI · Machine Learning · Agentic Systems · Full-Stack Development**
 
-This portfolio presents AI/ML engineering projects, skills, experience, certifications, and ways to get in touch. It is intended for recruiters, collaborators, reviewers, and others evaluating applied AI and software-engineering work. Rather than relying on claims alone, it links visitors to project evidence and demonstrations where available.
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-yasmeenazmat.com-EF83C4?style=for-the-badge)](https://yasmeenazmat.com)
+[![FlyRank](https://img.shields.io/badge/FlyRank-General_AI_Fluency-102D34?style=for-the-badge)](https://aifluency.flyrank.ai/)
+[![Capstone](https://img.shields.io/badge/Impact_Project-Approved-218A70?style=for-the-badge)](https://yasmeenazmat.com)
+[![Docs](https://img.shields.io/badge/Repository-Documentation_Only-63738A?style=for-the-badge)](#privacy-and-reproducibility)
 
-## What visitors can do
+**One destination for the projects, decisions, and evidence behind my AI engineering work.**
 
-1. Open the [live portfolio](https://yasmeenazmat.com).
-2. Use the navigation to explore About, Projects, Skills, Experience, Certifications, Blog, and Contact.
-3. Open project links and supporting evidence where provided.
-4. Try project filtering and navigation, if available in the current deployment.
-5. Use the Download CV action or the contact options.
-6. Review the Building in Public section for planned technical notes and future capstone updates.
+[**Explore Portfolio ↗**](https://yasmeenazmat.com) · [**Browse Projects ↗**](https://yasmeenazmat.com/#projects) · [**Contact ↗**](https://yasmeenazmat.com/#contact)
 
-## Technology and deployment
+<sub>FlyRank General AI Fluency · Impact Project approved October 5, 2026 · Public documentation / private implementation</sub>
 
-- Front end: HTML, CSS, and JavaScript (based on the project's reported development setup; verify against current private source before final submission).
-- Hosting: Netlify.
-- Public deployment: https://yasmeenazmat.com
-- Portfolio source code: kept private; **not included in this documentation repository**.
+</div>
 
-### High-level architecture
+---
 
-```text
-Visitor's browser
-      |
-      v
-Netlify-hosted portfolio
-      |
-      +--> Page sections (About / Projects / Skills / Experience)
-      +--> Project cards and external GitHub/demo links
-      +--> Certifications and CV links
-      +--> Contact interface / external contact destination
-      +--> Building-in-public updates
+## ✨ At a glance
+
+| | |
+|:--|:--|
+| **What it is** | A public, evidence-led portfolio of AI/ML engineering work, technical skills, experience, and certifications |
+| **Who it's for** | Recruiters, technical reviewers, potential collaborators, and internship or employment teams |
+| **Primary goal** | Help a visitor understand what I build, why it matters, and where to inspect the work |
+| **Live site** | **[yasmeenazmat.com](https://yasmeenazmat.com)** |
+| **Deployment** | Netlify, accessed through a custom domain |
+| **Source visibility** | Private; this repository contains **documentation only** |
+
+### Contents
+
+[Overview](#-overview) · [Portfolio experience](#-portfolio-experience) · [Architecture](#-architecture) · [How to use](#-how-to-use) · [Setup](#-setup-and-reproducibility) · [Evaluation](#-v2-evaluation-and-quality-checks) · [Decisions](#-design-decisions) · [Limitations](#-known-limitations) · [AI transparency](#-ai-assistance-and-verification) · [Demo](#-live-demo) · [Roadmap](#-roadmap)
+
+---
+
+## 🎯 Overview
+
+This portfolio brings my **machine learning, agentic AI, research, and software engineering** work into one navigable experience. Rather than asking visitors to rely on a list of technologies, it points them toward project descriptions, implementation context, and supporting GitHub repositories or demonstrations when available.
+
+The FlyRank capstone uses a repeatable case-study pattern:
+
+> **Problem → What I Did → What Came of It**
+
+That structure is intended to make technical decisions, my contribution, and the outcome easier to assess.
+
+## 🧭 Portfolio experience
+
+| Section | What visitors find |
+|:--|:--|
+| 🏠 **Home / About** | Engineering focus, background, and introduction |
+| 🧠 **Projects** | Applied AI/ML and software projects, with available evidence links |
+| 🛠️ **Skills** | Technical capabilities and tools |
+| 💼 **Experience** | Professional and internship experience |
+| 🎓 **Certifications** | Credentials and available verification links |
+| ✍️ **Blog / Building in Public** | Space for technical notes, retrospectives, and capstone updates |
+| ✉️ **Contact** | Contact interface and ways to connect |
+| 📄 **Download CV** | Access to the published CV |
+
+### Selected project areas
+
+- **Multi-agent research and RAG:** research assistance, retrieval, orchestration, and verification workflows.
+- **InvoiceGuard:** explainable invoice-risk review with human approval in the loop.
+- **CivicRelay and Clerkly:** agent-oriented applications with workflow safeguards.
+- **Real-time sentiment analysis:** data streaming and applied machine-learning research.
+- **AI career guidance:** skills and career-path exploration.
+
+> These are examples of work represented in the portfolio, **not a claim that every project has a publicly accessible live deployment**. Check each project card for its available links.
+
+---
+
+## 🏗️ Architecture
+
+```mermaid
+flowchart TD
+    A[Visitor's browser] --> B[Custom domain: yasmeenazmat.com]
+    B --> C[Netlify-hosted portfolio]
+    C --> D[About / Experience / Skills]
+    C --> E[Project cards and case studies]
+    C --> F[Certifications / CV]
+    C --> G[Contact / Building in Public]
+    E --> H[External GitHub or demo links, where available]
 ```
 
-This is a conceptual diagram of the public-facing experience, not a verified internal component diagram. Third-party contact handling and build/deploy details should be confirmed from the private project configuration.
+**Implementation overview**
 
-## Reproduction and setup
+| Layer | Current understanding |
+|:--|:--|
+| Frontend | HTML, CSS, and JavaScript, based on the previously described project setup; confirm against private source |
+| Hosting | Netlify |
+| Domain | [yasmeenazmat.com](https://yasmeenazmat.com) |
+| Project evidence | Links to external project repositories and demos where provided |
+| Documentation | This public repository; implementation files remain private |
 
-**Public use (reproducible):** Open the live URL in a modern browser. No account or installation is needed to browse the portfolio.
+*The diagram describes the visitor-facing system. It is not a verified internal component map; contact processing and build configuration require checking against the private deployment.*
 
-**Local development (source access required):** The source files are private, so an unrelated reader cannot reproduce the full local build from this public documentation alone. For an authorized collaborator who has received the private source:
+---
 
-1. Obtain the approved source folder securely.
-2. Confirm the presence of the entry-point HTML file and its referenced CSS, JavaScript, and assets.
-3. If the project is static HTML/CSS/JS without a build system, open the entry point using a local development server (for example, `python3 -m http.server 8000` from the project directory), then visit `http://localhost:8000`.
-4. If the source contains a build configuration such as `package.json`, follow that project's scripts instead; do not assume the static-server method is sufficient.
-5. Verify all relative asset paths, project links, CV download, and contact integration.
+## 🚀 How to use
 
-**Disclosure:** This documentation-only repository cannot meet a strict source-independent reproduction requirement while the source remains private. An assessor may request a private review or a source-release alternative.
+**No installation or account is required to view the live portfolio.**
 
-## Usage example: reviewer walkthrough
+1. Visit **[yasmeenazmat.com](https://yasmeenazmat.com)**.
+2. Navigate from **Home** to **Projects** to review work and evidence links.
+3. Try the project filters, where present, and inspect a project card.
+4. Review **Skills**, **Experience**, and **Certifications**.
+5. Try **Download CV** and inspect the **Contact** options.
+6. Open **Building in Public** to see the current content and planned updates.
 
-- Start on the home page and identify the portfolio's main AI/ML focus.
-- Navigate to Projects and inspect a case study and its evidence link.
-- Test project navigation/filtering on desktop and mobile.
-- Open a certification link and check its destination.
-- Try the CV download and contact path without submitting personal information during a demo.
-- Read the Building in Public section and note the plan to add NEXA as a future case study after it is ready.
+### Example reviewer journey
 
-## V2 evaluation and quality checks
+```text
+Open yasmeenazmat.com
+  → Read the introduction
+  → Navigate to Projects
+  → Filter or select a project
+  → Open its GitHub/demo evidence, if available
+  → Review experience and certifications
+  → Check CV download and contact options
+```
 
-**No numerical v2 evaluation results have been provided or independently verified for this portfolio.** Do not interpret the checklist below as completed tests until each has been run and recorded.
+## 💻 Setup and reproducibility
 
-| Check | Acceptance condition | Result |
-| --- | --- | --- |
-| Desktop navigation | Every navigation item opens the intended section | Not yet recorded |
-| Mobile layout | No clipped text or horizontal overflow | Not yet recorded |
-| Project links | GitHub and demo links open correctly | Not yet recorded |
-| Project filtering | Filtered cards match the chosen category | Not yet recorded |
-| CV download | Downloads the intended document | Not yet recorded |
-| Contact flow | Form or contact action behaves as described | Not yet recorded |
-| Accessibility | Keyboard navigation and visible focus are usable | Not yet recorded |
-| Performance | Page loads acceptably on a mobile connection | Not yet recorded |
+### Public experience — reproducible now
 
-After testing, replace these placeholders with dated results, devices/browsers, and evidence. Do not invent a pass rate or performance score.
+Open the live URL in a modern desktop or mobile browser. No local environment is necessary to evaluate the **deployed experience**.
 
-## Design decision
+### Local development — private-source access required
 
-The portfolio uses a single public destination to organize projects and evidence rather than requiring reviewers to find work across separate platforms. Case studies follow a consistent narrative: **Problem → What I Did → What Came of It**. This makes each project easier to assess quickly.
+This is **not** a public source-code repository. An authorized collaborator with the original source folder can:
 
-## Known limitations
+1. Obtain the private project files through an approved channel.
+2. Inspect the entry point and build configuration.
+3. If the project is plain HTML/CSS/JavaScript without a build step, start a local server from the project root:
 
-- The source code is private, so the full application cannot be reproduced from this public documentation alone.
-- The Building in Public section currently describes future notes and capstone updates; it is not yet a populated technical blog.
-- The official FlyRank graduate badge is pending issuance and should not be represented as earned until provided.
-- NEXA is planned as a future portfolio case study; it should not be presented as a completed, demonstrated feature before it is tested and ready.
-- Functional and cross-device test results still need to be recorded and linked.
+   ```bash
+   python3 -m http.server 8000
+   ```
 
-## AI assistance and human verification
+4. Open `http://localhost:8000` and verify navigation, images, project links, CV download, and contact behavior.
+5. If the source instead includes a package/build configuration, follow **its actual scripts** rather than assuming the static-server command is sufficient.
 
-AI-assisted tools were used during portfolio planning and development, including drafting or refining content and implementation ideas. The project owner selected the portfolio structure, reviewed the resulting work, and is responsible for verifying links, interactions, deployment, and the accuracy of project claims. **Before final submission, specify the actual AI tools used and exactly which changes were independently tested.**
+> **Reproducibility disclosure:** A stranger cannot recreate the complete source-based build from this public README alone because the implementation is private. FlyRank reviewers may request an approved private review method to assess this criterion.
 
-## Demo video
+---
 
-**3–5 minute live demo:** _Add the video URL after recording and uploading it._
+## 🧪 V2 evaluation and quality checks
 
-The demo should show the live site, navigate through projects, demonstrate at least one working interaction, explain the case-study organization decision, and honestly discuss a limitation (for example, the not-yet-populated Building in Public section). No slides.
+The portfolio's **functional quality checks** are listed below. The screenshots and information currently available do **not** establish numerical v2 scores or completed test results. The status must be updated **only after each check is performed and documented**.
 
-## Roadmap
+| Test area | Pass condition | Current evidence |
+|:--|:--|:--|
+| Desktop navigation | Each menu item reaches its intended section | Not yet recorded |
+| Mobile responsiveness | Layout works without clipped content or horizontal overflow | Not yet recorded |
+| Project filters | Selected category displays the appropriate project cards | Not yet recorded |
+| Project evidence links | Repository and demo links reach the intended destinations | Not yet recorded |
+| CV download | Correct document opens or downloads | Not yet recorded |
+| Contact interface | Form or contact action behaves as described | Not yet recorded |
+| Accessibility | Keyboard navigation and focus indicators are usable | Not yet recorded |
+| Performance | Page is usable on a mobile connection | Not yet recorded |
 
-- Finish and test NEXA before publishing it as a portfolio case study.
-- Publish technical write-ups and project retrospectives.
-- Record accessibility, mobile, link, and contact-flow test evidence.
-- Add the official FlyRank badge when issued, linking to the verification page.
+**Evaluation method:** Manually test the live deployment on desktop and mobile; record the date, browser/device, observed result, and screenshot or video evidence for each check. Avoid publishing an invented pass rate or performance score.
 
-## Attribution
+**Evaluation summary (pending):** `Completed: — / 8` · `Failures: —` · `Test date: —`
 
-Prepared as documentation for the FlyRank General AI Fluency track. This public repository contains documentation only, not the private portfolio source code.
+---
+
+## 🧩 Design decisions
+
+**One portfolio instead of scattered project links.** The portfolio brings project evidence, background, skills, and contact information together so reviewers can form a coherent picture without searching multiple platforms.
+
+**Consistent case-study storytelling.** The **Problem → What I Did → What Came of It** format emphasizes contribution and evidence rather than broad technical claims.
+
+**Documentation separated from source.** Public documentation makes the project easier to review while keeping the implementation private. The trade-off is reduced independent reproducibility.
+
+## ⚠️ Known limitations
+
+- **Private source:** Public documentation alone does not allow a stranger to rebuild the site from scratch.
+- **Evaluation pending:** Cross-device, accessibility, and functional checks still need dated evidence.
+- **Building in Public:** The section currently describes planned notes and updates rather than a complete technical blog.
+- **NEXA:** Identified as a future case study; it should not be described as completed until tested and ready.
+- **Graduate badge:** An official FlyRank badge should only be displayed once issued, with its verification link.
+
+## 🤝 AI assistance and verification
+
+AI-assisted tools supported portfolio planning, content refinement, and implementation ideas. **The project owner selected the structure, reviewed the outputs, and is responsible for validating the deployed experience and the accuracy of project claims.**
+
+**Before FL-09 submission:** Replace this note with the **specific AI tools actually used**, the tasks they assisted with, and the checks personally performed. Do not claim a test was completed without evidence.
+
+---
+
+## 🎬 Live demo
+
+**Planned length:** 3–5 minutes · **Format:** live screen recording with narration · **Slides:** none
+
+| Time | Show on screen | Explain |
+|:--|:--|:--|
+| 0:00–0:35 | Live home page | Purpose and intended audience |
+| 0:35–1:40 | Projects and a working filter | One real interaction and the project evidence |
+| 1:40–2:30 | Project details and external links | Why evidence-led case studies were chosen |
+| 2:30–3:15 | Skills, certifications, CV or contact | Practical visitor journey |
+| 3:15–4:10 | Building in Public | Honest limitation and next improvement |
+| 4:10–4:40 | Return to home page | AI assistance, human verification, and wrap-up |
+
+**Demo video URL:** *Add the actual public or unlisted video link after recording.*
+
+---
+
+## 🗺️ Roadmap
+
+- [ ] Finish and validate **NEXA** before publishing it as a portfolio case study.
+- [ ] Publish technical notes and project retrospectives.
+- [ ] Record and link dated functional, accessibility, and mobile test evidence.
+- [ ] Add the official FlyRank graduate badge and verification link when issued.
+- [ ] Attach the 3–5 minute live demo to this README and the FlyRank showcase submission.
+
+---
+
+<div align="center">
+
+### Built to show the work, not just describe it.
+
+**[Visit yasmeenazmat.com ↗](https://yasmeenazmat.com)**
+
+<sub>FlyRank General AI Fluency capstone documentation · © 2026 Yasmeen Azmat Ali · Source code remains private</sub>
+
+</div>
