@@ -1,8 +1,3 @@
-# flyrank-ai-fluency-portfolio-docs
-Public documentation for my AI/ML engineering portfolio (yasmeenazmat.com), developed as part of the FlyRank General AI Fluency capstone. Includes project overview, architecture, testing, limitations, AI-assisted development transparency, and demo resources. Portfolio source code remains private.
-
-
-
 # AI/ML Engineering Portfolio — FlyRank General AI Fluency
 
 **Creator:** Yasmeen Azmat Ali  
@@ -15,7 +10,7 @@ This portfolio presents AI/ML engineering projects, skills, experience, certific
 
 ## What visitors can do
 
-1. Open the [live portfolio](https://yasmeen-portfolio-1.netlify.app/).
+1. Open the [live portfolio](https://yasmeenazmat.com).
 2. Use the navigation to explore About, Projects, Skills, Experience, Certifications, Blog, and Contact.
 3. Open project links and supporting evidence where provided.
 4. Try project filtering and navigation, if available in the current deployment.
@@ -26,7 +21,7 @@ This portfolio presents AI/ML engineering projects, skills, experience, certific
 
 - Front end: HTML, CSS, and JavaScript (based on the project's reported development setup; verify against current private source before final submission).
 - Hosting: Netlify.
-- Public deployment: https://yasmeen-portfolio-1.netlify.app/
+- Public deployment: https://yasmeenazmat.com
 - Portfolio source code: kept private; **not included in this documentation repository**.
 
 ### High-level architecture
