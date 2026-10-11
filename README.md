@@ -89,7 +89,7 @@ flowchart TD
 
 | Layer | Current understanding |
 |:--|:--|
-| Frontend | HTML, CSS, and JavaScript, based on the previously described project setup; confirm against private source |
+| Frontend | HTML, CSS, and JavaScript files verified in the local portfolio ZIP; deployment build configuration not independently verified |
 | Hosting | Netlify |
 | Domain | [yasmeenazmat.com](https://yasmeenazmat.com) |
 | Project evidence | Links to external project repositories and demos where provided |
@@ -149,24 +149,24 @@ This is **not** a public source-code repository. An authorized collaborator with
 
 ## 🧪 V2 evaluation and quality checks
 
-The portfolio's **functional quality checks** are listed below. The screenshots and information currently available do **not** establish numerical v2 scores or completed test results. The status must be updated **only after each check is performed and documented**.
+**Evidence date:** 11 October 2026. **Method:** Static inspection of the local portfolio package `Yasmeen_Portfolio_COMPACT_VERIFIED.zip` (HTML, JavaScript, CSS, and bundled assets). These checks validate package structure only; they are **not** substitutes for live browser, mobile, accessibility, or end-to-end testing.
 
-| Test area | Pass condition | Current evidence |
+| Check | Observed result | Status |
 |:--|:--|:--|
-| Desktop navigation | Each menu item reaches its intended section | Not yet recorded |
-| Mobile responsiveness | Layout works without clipped content or horizontal overflow | Not yet recorded |
-| Project filters | Selected category displays the appropriate project cards | Not yet recorded |
-| Project evidence links | Repository and demo links reach the intended destinations | Not yet recorded |
-| CV download | Correct document opens or downloads | Not yet recorded |
-| Contact interface | Form or contact action behaves as described | Not yet recorded |
-| Accessibility | Keyboard navigation and focus indicators are usable | Not yet recorded |
-| Performance | Page is usable on a mobile connection | Not yet recorded |
+| Local HTML asset references | 15 local file references checked; 15 corresponding files exist in the package | **PASS — static** |
+| Internal section anchors | 16 in-page anchor references inspected; 0 unresolved targets | **PASS — static** |
+| Project images / accessible text | 10 image elements found; all 10 include nonempty `alt` text | **PASS — static** |
+| Portfolio section structure | Home, About, Projects, Skills, Experience, Certifications, Capstone, and Contact section IDs found in the HTML | **PASS — static** |
+| Desktop navigation interactions | Must click each navigation item in a real browser | **Not yet verified** |
+| Mobile layout / horizontal overflow | Must test on an actual phone or responsive browser viewport | **Not yet verified** |
+| Project filters | Must interact with filters and confirm displayed cards | **Not yet verified** |
+| External GitHub and demo destinations | Must open and confirm every destination | **Not yet verified** |
+| CV download | CV file exists in the package; download behavior must be checked in browser | **Partially checked** |
+| Contact form | Must submit a controlled test and verify receipt or expected result | **Not yet verified** |
+| Keyboard accessibility / focus | Requires manual keyboard testing | **Not yet verified** |
+| Mobile performance | Requires a measured mobile test, such as Lighthouse | **Not yet measured** |
 
-**Evaluation method:** Manually test the live deployment on desktop and mobile; record the date, browser/device, observed result, and screenshot or video evidence for each check. Avoid publishing an invented pass rate or performance score.
-
-**Evaluation summary (pending):** `Completed: — / 8` · `Failures: —` · `Test date: —`
-
----
+**Static evaluation summary:** 4 / 4 static inspection categories passed. This is **not a website-wide pass rate** and no numeric v2 performance or user-experience score has been established. Record browser/device, test date, observed outcomes, and screenshots or video before reporting end-to-end v2 results.
 
 ## 🧩 Design decisions
 
@@ -179,18 +179,18 @@ The portfolio's **functional quality checks** are listed below. The screenshots 
 ## ⚠️ Known limitations
 
 - **Private source:** Public documentation alone does not allow a stranger to rebuild the site from scratch.
-- **Evaluation pending:** Cross-device, accessibility, and functional checks still need dated evidence.
+- **Evaluation partially completed:** Local static package checks passed; browser interactions, cross-device behavior, accessibility, and performance still need dated evidence.
 - **Building in Public:** The section currently describes planned notes and updates rather than a complete technical blog.
 - **NEXA:** Identified as a future case study; it should not be described as completed until tested and ready.
 - **Graduate badge:** An official FlyRank badge should only be displayed once issued, with its verification link.
 
 ## 🤝 AI assistance and verification
 
-AI-assisted tools supported portfolio planning, content refinement, and implementation ideas. **The project owner selected the structure, reviewed the outputs, and is responsible for validating the deployed experience and the accuracy of project claims.**
+**AI tools and scope:** I used **Claude** as an AI-assisted development and planning tool to help organize the portfolio, refine written case-study content, and iterate on interface/layout ideas. AI assistance was part of the workflow; it should not be interpreted as proof that AI-generated suggestions were correct or production-ready.
 
-**Before FL-09 submission:** Replace this note with the **specific AI tools actually used**, the tasks they assisted with, and the checks personally performed. Do not claim a test was completed without evidence.
+**My responsibility:** I chose the portfolio's purpose, project selection, case-study structure (**Problem → What I Did → What Came of It**), and final presentation. I reviewed and integrated the material into my portfolio, deployed it, and am responsible for the accuracy of claims and for checking user-facing behavior. For this README, I also inspected the local site package and recorded only the static results supported by that inspection.
 
----
+**Verification boundary:** The local package checks above do not establish that the contact form delivers messages, that external links work today, or that the site is fully accessible or mobile-tested. Those require separate live checks, which remain open. NEXA is still in progress and is not represented as a finished project.
 
 ## 🎬 Live demo
 
@@ -213,7 +213,8 @@ AI-assisted tools supported portfolio planning, content refinement, and implemen
 
 - [ ] Finish and validate **NEXA** before publishing it as a portfolio case study.
 - [ ] Publish technical notes and project retrospectives.
-- [ ] Record and link dated functional, accessibility, and mobile test evidence.
+- [x] Record local static package inspection results (11 October 2026).
+- [ ] Record and link dated browser-functional, accessibility, and mobile test evidence.
 - [ ] Add the official FlyRank graduate badge and verification link when issued.
 - [ ] Attach the 3–5 minute live demo to this README and the FlyRank showcase submission.
 
