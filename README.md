@@ -1,117 +1,145 @@
+ <div align="center">
+
 # ✦ Yasmeen Azmat Ali
-### AI/ML Engineering Portfolio
 
-**Applied AI · Machine Learning · Agentic Systems · Full-Stack Development**
+### From Projects to Proof
+**AI/ML Engineering Portfolio**
 
-[🌐 Live Portfolio](https://yasmeenazmat.com) · [FlyRank General AI Fluency](https://aifluency.flyrank.ai/) · **Impact Project Approved**
+*Applied AI · Machine Learning · Agentic Systems · Full-Stack Engineering*
 
-**One destination for the projects, decisions, and evidence behind my AI engineering work.**
+[![Live Portfolio](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Visit_Website-ec4899?style=for-the-badge)](https://yasmeenazmat.com)
+[![FlyRank](https://img.shields.io/badge/FLYRANK-2026_CAPSTONE-8b5cf6?style=for-the-badge)](https://aifluency.flyrank.ai/)
+![Approved](https://img.shields.io/badge/IMPACT_PROJECT-APPROVED-10b981?style=for-the-badge)
 
-FlyRank General AI Fluency · Impact Project approved October 5, 2026 · Public documentation / private implementation
+### Building intelligent systems. Showing the engineering behind them.
+
+A professional, evidence-first portfolio bringing together my AI/ML projects, technical decisions, live demonstrations, engineering experience, and professional achievements.
+
+**[Explore Portfolio ↗](https://yasmeenazmat.com)** · **[Featured Projects ↗](https://yasmeenazmat.com/#projects)** · **[Contact ↗](https://yasmeenazmat.com/#contact)**
+
+*FlyRank General AI Fluency · Impact Project approved October 5, 2026*
+
+</div>
 
 ---
 
-## ✨ At a Glance
+## ✨ Project Snapshot
 
 | | |
 |---|---|
 | **Project** | From Projects to Proof — AI/ML Engineering Portfolio |
-| **Purpose** | Showcase AI/ML projects, technical evidence, live demonstrations, skills, and professional experience |
-| **Audience** | Recruiters, technical reviewers, collaborators, and hiring teams |
-| **Live website** | [yasmeenazmat.com](https://yasmeenazmat.com) |
-| **Hosting** | Netlify with a custom domain |
-| **Source visibility** | Private implementation; public documentation |
-| **FlyRank status** | Impact Project Approved — October 5, 2026 |
-| **Development status** | Portfolio redesign complete; final narrated demo pending |
+| **Category** | AI/ML Engineering · Portfolio · Web Development |
+| **Purpose** | Make engineering work discoverable, understandable, and verifiable |
+| **Audience** | Recruiters · Engineers · Collaborators · Hiring Teams |
+| **Tech Stack** | HTML · CSS · JavaScript · Netlify |
+| **Deployment** | [yasmeenazmat.com](https://yasmeenazmat.com) |
+| **Source Code** | Private implementation |
+| **Documentation** | Public |
+| **FlyRank Status** | Impact Project Approved |
 
-## 🎯 Overview
+---
 
-**From Projects to Proof — AI/ML Engineering Portfolio** is a professional website that brings together my work in machine learning, agentic AI, research, backend development, and full-stack engineering.
+## 🎯 The Story Behind the Project
 
-The goal is to make my technical work easier to discover, understand, and evaluate through project descriptions, GitHub repositories, available live demos, engineering decisions, and professional experience.
+### The Challenge
 
-The FlyRank capstone follows a consistent storytelling framework:
+AI/ML engineering work often lives across GitHub repositories, demonstrations, academic projects, and professional profiles.
+
+For recruiters and technical reviewers, this makes it difficult to understand what was built, how it works, and what evidence supports it.
+
+### The Solution
+
+I built a single professional portfolio that brings together technical projects, practical demonstrations, skills, experience, certifications, and project documentation.
+
+Rather than relying on technology lists alone, the portfolio emphasizes:
 
 **Problem → What I Did → What Came of It**
 
-This approach helps visitors understand the motivation, technical contribution, and outcome behind each project.
+### The Outcome
 
-## 🧭 Portfolio Experience
+A deployed, responsive portfolio with a consistent project-card design, interactive navigation, animations, technical evidence links, and a dedicated FlyRank Capstone section.
 
-| Section | Purpose |
+The portfolio makes it easier to explore my engineering work and understand the decisions behind it.
+
+---
+
+## 🧠 Featured Engineering Work
+
+| Project | Focus |
 |---|---|
-| Home / About | Introduction, engineering focus, and background |
-| Featured Projects | Selected technical work and supporting evidence |
-| More Projects | Additional software and AI projects |
-| Skills | Technologies, frameworks, and engineering capabilities |
-| Experience | Professional and internship experience |
-| Certifications | Completed credentials and available verification |
-| FlyRank Capstone | Portfolio project, approval status, and documentation |
-| Building in Public | Technical updates and planned retrospectives |
-| Contact | Professional contact options |
-| Download CV | Access to the published résumé |
+| **Multi-Agent RAG Research Assistant** | Retrieval, research automation, and agent orchestration |
+| **InvoiceGuard** | Explainable invoice-risk assessment and human approval |
+| **CivicRelay** | Agentic civic-issue management |
+| **Clerkly** | Human-in-the-loop paperwork workflows |
+| **Real-Time Twitter Sentiment Analysis** | Kafka, Spark, NLP, and streaming machine learning |
+| **AI Career Guidance Assistant** | AI-powered career exploration and skills guidance |
 
-### Selected Project Areas
+**[Explore All Projects ↗](https://yasmeenazmat.com/#projects)**
 
-- Multi-agent research and retrieval-augmented generation
-- InvoiceGuard — explainable invoice-risk analysis with human approval
-- CivicRelay and Clerkly — agentic workflow applications
-- Real-time Twitter sentiment analysis using Kafka, Spark, and machine learning
-- AI Career Guidance Assistant
-- Additional applied AI, backend, and software engineering projects
+*Live demonstrations and GitHub repositories are linked where available. Not every project currently has a public deployment.*
 
-Not every project has a publicly accessible live deployment. Individual project cards identify the evidence and links available.
+---
 
-## 🏗️ Architecture
+## ⚡ Portfolio Features
+
+| Feature | Description |
+|---|---|
+| 🎨 **Responsive Design** | Desktop and mobile-friendly layouts |
+| ✨ **Motion & Interaction** | Section reveals, hover effects, and animated elements |
+| 🧩 **Featured Projects** | Consistent cards with project context and evidence |
+| 🔎 **Project Exploration** | Navigation and available project filters |
+| 🏆 **FlyRank Capstone** | Compact approved-project showcase |
+| 📄 **Professional Profile** | Skills, experience, certifications, and CV |
+| 🔗 **Evidence Links** | GitHub repositories and available demonstrations |
+| ✉️ **Contact** | Professional contact options |
+
+---
+
+## 🏗️ System Architecture
 
 ```mermaid
 flowchart TD
-    A[Visitor Browser] --> B[yasmeenazmat.com]
-    B --> C[Netlify Portfolio]
-    C --> D[Home / About]
-    C --> E[Projects and Capstone]
-    C --> F[Skills / Experience / Certifications]
-    C --> G[Contact / Building in Public]
-    E --> H[GitHub and Live Demos]
-    E --> I[Public Documentation]
+    A["🌐 Visitor Browser"] --> B["yasmeenazmat.com"]
+    B --> C["Netlify Deployment"]
+    C --> D["Portfolio Interface"]
+    D --> E["Featured Projects"]
+    D --> F["Skills & Experience"]
+    D --> G["Certifications & CV"]
+    D --> H["FlyRank Capstone"]
+    D --> I["Contact"]
+    E --> J["GitHub & Live Demos"]
+    H --> K["Public Documentation"]
 ```
 
-### Technology and Implementation
+### Technology Stack
 
-| Component | Technology |
-|---|---|
-| Frontend | HTML, CSS, JavaScript |
-| Styling | Responsive CSS, transitions, and animations |
-| Interactivity | JavaScript-based navigation and project interactions |
-| Hosting | Netlify |
-| Domain | yasmeenazmat.com |
-| Documentation | Public README |
-| Implementation source | Private |
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-The diagram represents the visitor-facing architecture. Contact processing and deployment configuration are not independently documented here.
+The architecture illustrates the visitor-facing system. Internal contact processing and deployment configuration are not independently verified in this public documentation.
 
-## 🚀 How to Use
+---
 
-No account or installation is required.
+## 🚀 Explore the Portfolio
 
-1. Visit [yasmeenazmat.com](https://yasmeenazmat.com).
-2. Explore the introduction and professional background.
-3. Navigate to Featured Projects and browse the project cards.
-4. Use the available project filters.
-5. Open GitHub repositories or live demonstrations where available.
-6. Review technical skills, experience, and certifications.
-7. Explore the FlyRank Capstone section.
-8. Download the CV or use the available contact options.
+**No installation or account is required.**
 
-## 💻 Setup and Reproducibility
+1. Open **[yasmeenazmat.com](https://yasmeenazmat.com)**.
+2. Browse the Featured Projects and additional projects.
+3. Use the available filters and open supporting evidence links.
+4. Review skills, experience, and certifications.
+5. Explore the FlyRank Capstone section.
+6. Download the CV or use the available contact options.
 
-### Public Website
+<details>
+<summary><b>💻 Local Development and Reproducibility</b></summary>
 
-The deployed portfolio can be reviewed directly through a modern desktop or mobile browser.
+The portfolio implementation is private.
 
-### Local Development
-
-The source code is private. Authorized collaborators with access to the original files can start a local server from the portfolio directory:
+Authorized collaborators with the original HTML, CSS, JavaScript, and assets can run the static version locally.
 
 ```bash
 python3 -m http.server 8000
@@ -123,160 +151,183 @@ Then open:
 http://localhost:8000
 ```
 
-The local static-server workflow is applicable to the HTML/CSS/JavaScript version of the portfolio. If a different build configuration is introduced, follow the corresponding project scripts.
+Check navigation, images, project cards, animations, CV download, and contact behavior.
 
-**Reproducibility limitation:** The public README allows reviewers to evaluate the deployed experience, but it does not provide the complete private implementation needed to rebuild the site independently.
+**Reproducibility limitation:** This documentation repository does not contain the complete source files needed to independently rebuild the website.
 
-## 🧪 Evaluation and Quality Checks
-
-### 1. Static Package Verification
-
-**Evidence date:** October 11, 2026  
-**Method:** Inspection of the earlier local portfolio package.
-
-| Check | Recorded result |
-|---|---|
-| Local asset references | 15/15 resolved |
-| Internal section anchors | 16 inspected; 0 unresolved |
-| Image alternative text | 10/10 images had nonempty alt text |
-| Main portfolio sections | Present |
-| Static inspection categories | 4/4 passed |
-
-These results apply to the inspected package, not automatically to every later revision.
-
-### 2. PageSpeed Insights Evaluation
-
-**Evidence date:** October 11, 2026  
-**Tested version:** Portfolio before the latest Capstone redesign.
-
-| Metric | Recorded result |
-|---|---|
-| Desktop Performance | **97/100** |
-| Mobile Performance | **71–72/100** |
-| Accessibility | **100/100** |
-| Best Practices | **100/100** |
-| SEO | **100/100** |
-| Agentic Browsing | **2/2** |
-
-Additional recorded mobile metrics:
-
-- First Contentful Paint: 4.1 seconds
-- Largest Contentful Paint: 4.7 seconds
-- Total Blocking Time: 0 ms
-- Cumulative Layout Shift: 0
-- Speed Index: 5.1 seconds
-
-The mobile results indicate that performance optimization remains a potential improvement area.
-
-**Important:** These are historical measured results. A fresh PageSpeed evaluation is required to establish scores for the final redesigned version.
-
-### 3. Functional and Visual Testing
-
-**Latest testing period:** October 2026
-
-The redesigned portfolio was run locally, visually reviewed through screen recordings, and subsequently tested by the project owner on desktop and mobile.
-
-| Area | Status |
-|---|---|
-| Desktop layout | User-tested |
-| Mobile responsive layout | User-tested |
-| Hero presentation | Visually reviewed |
-| Scroll and reveal animations | Implemented and user-tested |
-| Featured Projects layout | Visually reviewed |
-| Capstone card redesign | Completed and visually reviewed |
-| Project-card hover effects | User-tested |
-| Navigation and project filters | User-tested; detailed results not recorded |
-| External links | Individual destination verification not documented |
-| CV download | File presence checked; download result not documented |
-| Contact-form delivery | End-to-end delivery not documented |
-| Keyboard accessibility | Manual audit not documented |
-| Final-version PageSpeed | Retest pending |
-
-These status descriptions distinguish user-reported testing from independently recorded measurements.
-
-## 🧩 Design Decisions
-
-### Evidence-First Portfolio
-
-Instead of relying only on a list of technologies, the portfolio provides project context and direct access to supporting work.
-
-### Consistent Project Presentation
-
-Featured Projects use a shared card design, making the portfolio easier to scan and navigate.
-
-### Compact FlyRank Capstone
-
-The Capstone section was redesigned to match the Featured Projects card layout.
-
-This removed oversized nested containers and separate Challenge, Solution, and Outcome panels while preserving the project description, screenshot, live website, documentation, and approval status.
-
-### Motion and Interaction
-
-Subtle animations, section reveals, and hover effects were introduced to make the interface engaging without changing the underlying content or navigation.
-
-### Private Source, Public Documentation
-
-The implementation remains private, while public documentation explains the purpose, architecture, usage, decisions, limitations, and evaluation evidence.
-
-## ⚠️ Known Limitations
-
-- The private source prevents complete independent source-based reproducibility.
-- Some projects do not yet have publicly accessible live demonstrations.
-- The Building in Public section can be expanded with more technical case studies.
-- Mobile performance has room for improvement based on the October 11 measurement.
-- Final-version performance and complete end-to-end functional results have not yet been documented.
-- NEXA remains in development and should not be presented as a completed project.
-- An official FlyRank graduate badge will only be added after it is issued.
-
-## 🤝 AI Assistance and Verification
-
-AI-assisted tools, including Claude, were used to support portfolio planning, content organization, interface iteration, and development activities.
-
-AI assistance helped accelerate the workflow, but generated suggestions were not treated as automatically correct.
-
-I remained responsible for project selection, technical content, portfolio decisions, integration, testing, deployment, and the accuracy of the published material.
-
-The final documentation distinguishes recorded results, user-reported checks, and items still awaiting independent verification.
-
-## 🎬 Live Demo
-
-**Planned duration:** 3–5 minutes  
-**Format:** Live portfolio walkthrough with narration  
-**Status:** Pending final recording
-
-| Time | Demonstration |
-|---|---|
-| 0:00–0:35 | Introduce the portfolio and its purpose |
-| 0:35–1:40 | Explore Featured Projects and filters |
-| 1:40–2:30 | Demonstrate project evidence and explain a design decision |
-| 2:30–3:15 | Show skills, certifications, CV, and contact options |
-| 3:15–4:10 | Explain the FlyRank Capstone and a known limitation |
-| 4:10–4:40 | Discuss AI assistance, verification, and next steps |
-
-**Demo video:** To be added after recording.
-
-## 🗺️ Roadmap
-
-- [x] Build and deploy the professional AI/ML portfolio.
-- [x] Receive FlyRank Impact Project approval.
-- [x] Redesign the Capstone to match Featured Projects.
-- [x] Implement portfolio animations.
-- [x] Perform desktop and mobile user testing.
-- [x] Document the October 11 static and performance evaluation.
-- [x] Update public documentation.
-- [ ] Re-run PageSpeed on the final deployed version.
-- [ ] Document remaining end-to-end functional checks.
-- [ ] Record and publish the 3–5-minute narrated demo.
-- [ ] Submit final documentation and video to FlyRank.
-- [ ] Publish additional technical case studies.
-- [ ] Complete and validate NEXA before featuring it as finished work.
-- [ ] Add the official FlyRank graduate badge when issued.
+</details>
 
 ---
 
-### Built to show the work, not just describe it.
+## 📊 Performance & Quality
 
-**[Visit My Portfolio ↗](https://yasmeenazmat.com)**
+### October 11, 2026 — PageSpeed Insights
 
-FlyRank General AI Fluency Capstone · © 2026 Yasmeen Azmat Ali  
-Public documentation · Private implementation
+| Category | Recorded Result |
+|---|---:|
+| 🖥️ Desktop Performance | **97/100** |
+| 📱 Mobile Performance | **71–72/100** |
+| ♿ Accessibility | **100/100** |
+| 🛡️ Best Practices | **100/100** |
+| 🔍 SEO | **100/100** |
+| 🤖 Agentic Browsing | **2/2** |
+
+These results were measured before the latest Capstone redesign. They should not be interpreted as fresh scores for the final version.
+
+**Mobile metrics:** FCP 4.1 s · LCP 4.7 s · TBT 0 ms · CLS 0 · Speed Index 5.1 s.
+
+### Testing Summary
+
+| Area | Recorded Status |
+|---|---|
+| Desktop layout | User-tested |
+| Mobile responsiveness | User-tested |
+| Scroll animations | Implemented and user-tested |
+| Project-card hover effects | User-tested |
+| Capstone redesign | Completed and visually reviewed |
+| Navigation and project filters | User-tested; detailed results not recorded |
+| Static package inspection | 4/4 categories passed on earlier package |
+| Final-version PageSpeed | Retest pending |
+
+<details>
+<summary><b>🔬 Detailed Static Verification</b></summary>
+
+**Evidence date:** October 11, 2026
+
+| Check | Result |
+|---|---|
+| Local asset references | 15/15 resolved |
+| Internal section anchors | 16 inspected, 0 unresolved |
+| Image alternative text | 10/10 nonempty |
+| Main portfolio sections | Present |
+| Static inspection categories | 4/4 passed |
+
+These results apply to the inspected earlier package.
+
+</details>
+
+<details>
+<summary><b>🧪 Additional Verification Boundaries</b></summary>
+
+The following checks still need documented end-to-end results:
+
+- Individual external-link destinations
+- CV download behavior
+- Contact-form delivery
+- Manual keyboard accessibility
+- Final-version mobile and desktop PageSpeed measurements
+
+User-reported functional testing and static checks are not substitutes for these specific tests.
+
+</details>
+
+---
+
+## 🎨 Engineering & Design Decisions
+
+### 01 — Evidence Over Claims
+
+The portfolio prioritizes project context, engineering decisions, and links to supporting work rather than only displaying technology names.
+
+### 02 — Consistency Across Projects
+
+Featured Projects share a consistent card layout so visitors can compare projects without learning a different interface for each one.
+
+### 03 — Compact FlyRank Capstone
+
+The Capstone was redesigned to match the Featured Projects cards.
+
+Unnecessary nested panels, oversized spacing, and separate Challenge/Solution/Outcome boxes were removed while preserving the screenshot, links, and approved status.
+
+### 04 — Motion With Purpose
+
+Subtle animation, hover lighting, and scroll-triggered reveals make the portfolio engaging without replacing meaningful technical content.
+
+### 05 — Public Evidence, Private Implementation
+
+Documentation is public for reviewers, while implementation source files remain private. This improves public discoverability but limits independent source-based reproducibility.
+
+---
+
+## ⚠️ Known Limitations
+
+- The complete implementation is not publicly available.
+- Some projects still need additional interactive demonstrations.
+- Mobile performance has room for improvement based on the recorded October 11 test.
+- Final-version PageSpeed and complete end-to-end verification remain pending.
+- Building in Public can be expanded with deeper technical case studies.
+- NEXA remains in development and is not presented as completed work.
+- An official FlyRank graduate badge will only be displayed after issuance.
+
+---
+
+## 🤝 AI Assistance & Human Verification
+
+AI-assisted tools, including Claude, supported planning, content organization, interface refinement, and development activities.
+
+AI-generated suggestions were not assumed to be correct without review.
+
+I remained responsible for project selection, engineering decisions, content accuracy, integration, testing, and deployment.
+
+The evaluation section separates measured evidence, static verification, user-reported testing, and pending checks.
+
+---
+
+## 🎬 Live Demonstration
+
+**Format:** Narrated portfolio walkthrough  
+**Target Duration:** 3–5 minutes  
+**Status:** Final recording pending
+
+| Segment | What I'll Demonstrate |
+|---|---|
+| 0:00–0:35 | Portfolio introduction and purpose |
+| 0:35–1:40 | Featured Projects and interactive filters |
+| 1:40–2:30 | Project evidence and design decisions |
+| 2:30–3:15 | Skills, certifications, CV, and contact |
+| 3:15–4:10 | FlyRank Capstone and known limitation |
+| 4:10–4:40 | AI assistance, verification, and next steps |
+
+**Demo video:** Link will be added after recording.
+
+---
+
+## 🗺️ Development Roadmap
+
+### Completed
+
+- [x] Build and deploy the portfolio
+- [x] Receive FlyRank Impact Project approval
+- [x] Implement responsive design and animations
+- [x] Redesign the Capstone section
+- [x] Conduct desktop and mobile user testing
+- [x] Record initial static and performance evaluations
+- [x] Publish updated technical documentation
+
+### Next Improvements
+
+- [ ] Re-run PageSpeed on the final deployed website
+- [ ] Document remaining functional and accessibility checks
+- [ ] Record the narrated FlyRank demonstration
+- [ ] Submit documentation and demo to FlyRank
+- [ ] Add more technical case studies and live demonstrations
+- [ ] Complete and validate NEXA
+- [ ] Add the official FlyRank graduate badge when issued
+
+---
+
+<div align="center">
+
+### ✦ Built to show the work, not just describe it.
+
+**AI Engineering · Technical Evidence · Real-World Applications**
+
+[![Visit Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-↗-ec4899?style=for-the-badge)](https://yasmeenazmat.com)
+
+**Yasmeen Azmat Ali**
+
+*FlyRank General AI Fluency Capstone · 2026*
+
+*Public documentation · Private implementation*
+
+</div> 
