@@ -1,231 +1,282 @@
-<div align="center">
-
 # ✦ Yasmeen Azmat Ali
 ### AI/ML Engineering Portfolio
 
 **Applied AI · Machine Learning · Agentic Systems · Full-Stack Development**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-yasmeenazmat.com-EF83C4?style=for-the-badge)](https://yasmeenazmat.com)
-[![FlyRank](https://img.shields.io/badge/FlyRank-General_AI_Fluency-102D34?style=for-the-badge)](https://aifluency.flyrank.ai/)
-[![Capstone](https://img.shields.io/badge/Impact_Project-Approved-218A70?style=for-the-badge)](https://yasmeenazmat.com)
-[![Docs](https://img.shields.io/badge/Repository-Documentation_Only-63738A?style=for-the-badge)](#privacy-and-reproducibility)
+[🌐 Live Portfolio](https://yasmeenazmat.com) · [FlyRank General AI Fluency](https://aifluency.flyrank.ai/) · **Impact Project Approved**
 
 **One destination for the projects, decisions, and evidence behind my AI engineering work.**
 
-[**Explore Portfolio ↗**](https://yasmeenazmat.com) · [**Browse Projects ↗**](https://yasmeenazmat.com/#projects) · [**Contact ↗**](https://yasmeenazmat.com/#contact)
-
-<sub>FlyRank General AI Fluency · Impact Project approved October 5, 2026 · Public documentation / private implementation</sub>
-
-</div>
+FlyRank General AI Fluency · Impact Project approved October 5, 2026 · Public documentation / private implementation
 
 ---
 
-## ✨ At a glance
+## ✨ At a Glance
 
 | | |
-|:--|:--|
-| **What it is** | A public, evidence-led portfolio of AI/ML engineering work, technical skills, experience, and certifications |
-| **Who it's for** | Recruiters, technical reviewers, potential collaborators, and internship or employment teams |
-| **Primary goal** | Help a visitor understand what I build, why it matters, and where to inspect the work |
-| **Live site** | **[yasmeenazmat.com](https://yasmeenazmat.com)** |
-| **Deployment** | Netlify, accessed through a custom domain |
-| **Source visibility** | Private; this repository contains **documentation only** |
-
-### Contents
-
-[Overview](#-overview) · [Portfolio experience](#-portfolio-experience) · [Architecture](#-architecture) · [How to use](#-how-to-use) · [Setup](#-setup-and-reproducibility) · [Evaluation](#-v2-evaluation-and-quality-checks) · [Decisions](#-design-decisions) · [Limitations](#-known-limitations) · [AI transparency](#-ai-assistance-and-verification) · [Demo](#-live-demo) · [Roadmap](#-roadmap)
-
----
+|---|---|
+| **Project** | From Projects to Proof — AI/ML Engineering Portfolio |
+| **Purpose** | Showcase AI/ML projects, technical evidence, live demonstrations, skills, and professional experience |
+| **Audience** | Recruiters, technical reviewers, collaborators, and hiring teams |
+| **Live website** | [yasmeenazmat.com](https://yasmeenazmat.com) |
+| **Hosting** | Netlify with a custom domain |
+| **Source visibility** | Private implementation; public documentation |
+| **FlyRank status** | Impact Project Approved — October 5, 2026 |
+| **Development status** | Portfolio redesign complete; final narrated demo pending |
 
 ## 🎯 Overview
 
-This portfolio brings my **machine learning, agentic AI, research, and software engineering** work into one navigable experience. Rather than asking visitors to rely on a list of technologies, it points them toward project descriptions, implementation context, and supporting GitHub repositories or demonstrations when available.
+**From Projects to Proof — AI/ML Engineering Portfolio** is a professional website that brings together my work in machine learning, agentic AI, research, backend development, and full-stack engineering.
 
-The FlyRank capstone uses a repeatable case-study pattern:
+The goal is to make my technical work easier to discover, understand, and evaluate through project descriptions, GitHub repositories, available live demos, engineering decisions, and professional experience.
 
-> **Problem → What I Did → What Came of It**
+The FlyRank capstone follows a consistent storytelling framework:
 
-That structure is intended to make technical decisions, my contribution, and the outcome easier to assess.
+**Problem → What I Did → What Came of It**
 
-## 🧭 Portfolio experience
+This approach helps visitors understand the motivation, technical contribution, and outcome behind each project.
 
-| Section | What visitors find |
-|:--|:--|
-| 🏠 **Home / About** | Engineering focus, background, and introduction |
-| 🧠 **Projects** | Applied AI/ML and software projects, with available evidence links |
-| 🛠️ **Skills** | Technical capabilities and tools |
-| 💼 **Experience** | Professional and internship experience |
-| 🎓 **Certifications** | Credentials and available verification links |
-| ✍️ **Blog / Building in Public** | Space for technical notes, retrospectives, and capstone updates |
-| ✉️ **Contact** | Contact interface and ways to connect |
-| 📄 **Download CV** | Access to the published CV |
+## 🧭 Portfolio Experience
 
-### Selected project areas
+| Section | Purpose |
+|---|---|
+| Home / About | Introduction, engineering focus, and background |
+| Featured Projects | Selected technical work and supporting evidence |
+| More Projects | Additional software and AI projects |
+| Skills | Technologies, frameworks, and engineering capabilities |
+| Experience | Professional and internship experience |
+| Certifications | Completed credentials and available verification |
+| FlyRank Capstone | Portfolio project, approval status, and documentation |
+| Building in Public | Technical updates and planned retrospectives |
+| Contact | Professional contact options |
+| Download CV | Access to the published résumé |
 
-- **Multi-agent research and RAG:** research assistance, retrieval, orchestration, and verification workflows.
-- **InvoiceGuard:** explainable invoice-risk review with human approval in the loop.
-- **CivicRelay and Clerkly:** agent-oriented applications with workflow safeguards.
-- **Real-time sentiment analysis:** data streaming and applied machine-learning research.
-- **AI career guidance:** skills and career-path exploration.
+### Selected Project Areas
 
-> These are examples of work represented in the portfolio, **not a claim that every project has a publicly accessible live deployment**. Check each project card for its available links.
+- Multi-agent research and retrieval-augmented generation
+- InvoiceGuard — explainable invoice-risk analysis with human approval
+- CivicRelay and Clerkly — agentic workflow applications
+- Real-time Twitter sentiment analysis using Kafka, Spark, and machine learning
+- AI Career Guidance Assistant
+- Additional applied AI, backend, and software engineering projects
 
----
+Not every project has a publicly accessible live deployment. Individual project cards identify the evidence and links available.
 
 ## 🏗️ Architecture
 
 ```mermaid
 flowchart TD
-    A[Visitor's browser] --> B[Custom domain: yasmeenazmat.com]
-    B --> C[Netlify-hosted portfolio]
-    C --> D[About / Experience / Skills]
-    C --> E[Project cards and case studies]
-    C --> F[Certifications / CV]
+    A[Visitor Browser] --> B[yasmeenazmat.com]
+    B --> C[Netlify Portfolio]
+    C --> D[Home / About]
+    C --> E[Projects and Capstone]
+    C --> F[Skills / Experience / Certifications]
     C --> G[Contact / Building in Public]
-    E --> H[External GitHub or demo links, where available]
+    E --> H[GitHub and Live Demos]
+    E --> I[Public Documentation]
 ```
 
-**Implementation overview**
+### Technology and Implementation
 
-| Layer | Current understanding |
-|:--|:--|
-| Frontend | HTML, CSS, and JavaScript files verified in the local portfolio ZIP; deployment build configuration not independently verified |
+| Component | Technology |
+|---|---|
+| Frontend | HTML, CSS, JavaScript |
+| Styling | Responsive CSS, transitions, and animations |
+| Interactivity | JavaScript-based navigation and project interactions |
 | Hosting | Netlify |
-| Domain | [yasmeenazmat.com](https://yasmeenazmat.com) |
-| Project evidence | Links to external project repositories and demos where provided |
-| Documentation | This public repository; implementation files remain private |
+| Domain | yasmeenazmat.com |
+| Documentation | Public README |
+| Implementation source | Private |
 
-*The diagram describes the visitor-facing system. It is not a verified internal component map; contact processing and build configuration require checking against the private deployment.*
+The diagram represents the visitor-facing architecture. Contact processing and deployment configuration are not independently documented here.
 
----
+## 🚀 How to Use
 
-## 🚀 How to use
+No account or installation is required.
 
-**No installation or account is required to view the live portfolio.**
+1. Visit [yasmeenazmat.com](https://yasmeenazmat.com).
+2. Explore the introduction and professional background.
+3. Navigate to Featured Projects and browse the project cards.
+4. Use the available project filters.
+5. Open GitHub repositories or live demonstrations where available.
+6. Review technical skills, experience, and certifications.
+7. Explore the FlyRank Capstone section.
+8. Download the CV or use the available contact options.
 
-1. Visit **[yasmeenazmat.com](https://yasmeenazmat.com)**.
-2. Navigate from **Home** to **Projects** to review work and evidence links.
-3. Try the project filters, where present, and inspect a project card.
-4. Review **Skills**, **Experience**, and **Certifications**.
-5. Try **Download CV** and inspect the **Contact** options.
-6. Open **Building in Public** to see the current content and planned updates.
+## 💻 Setup and Reproducibility
 
-### Example reviewer journey
+### Public Website
+
+The deployed portfolio can be reviewed directly through a modern desktop or mobile browser.
+
+### Local Development
+
+The source code is private. Authorized collaborators with access to the original files can start a local server from the portfolio directory:
+
+```bash
+python3 -m http.server 8000
+```
+
+Then open:
 
 ```text
-Open yasmeenazmat.com
-  → Read the introduction
-  → Navigate to Projects
-  → Filter or select a project
-  → Open its GitHub/demo evidence, if available
-  → Review experience and certifications
-  → Check CV download and contact options
+http://localhost:8000
 ```
 
-## 💻 Setup and reproducibility
+The local static-server workflow is applicable to the HTML/CSS/JavaScript version of the portfolio. If a different build configuration is introduced, follow the corresponding project scripts.
 
-### Public experience — reproducible now
+**Reproducibility limitation:** The public README allows reviewers to evaluate the deployed experience, but it does not provide the complete private implementation needed to rebuild the site independently.
 
-Open the live URL in a modern desktop or mobile browser. No local environment is necessary to evaluate the **deployed experience**.
+## 🧪 Evaluation and Quality Checks
 
-### Local development — private-source access required
+### 1. Static Package Verification
 
-This is **not** a public source-code repository. An authorized collaborator with the original source folder can:
+**Evidence date:** October 11, 2026  
+**Method:** Inspection of the earlier local portfolio package.
 
-1. Obtain the private project files through an approved channel.
-2. Inspect the entry point and build configuration.
-3. If the project is plain HTML/CSS/JavaScript without a build step, start a local server from the project root:
+| Check | Recorded result |
+|---|---|
+| Local asset references | 15/15 resolved |
+| Internal section anchors | 16 inspected; 0 unresolved |
+| Image alternative text | 10/10 images had nonempty alt text |
+| Main portfolio sections | Present |
+| Static inspection categories | 4/4 passed |
 
-   ```bash
-   python3 -m http.server 8000
-   ```
+These results apply to the inspected package, not automatically to every later revision.
 
-4. Open `http://localhost:8000` and verify navigation, images, project links, CV download, and contact behavior.
-5. If the source instead includes a package/build configuration, follow **its actual scripts** rather than assuming the static-server command is sufficient.
+### 2. PageSpeed Insights Evaluation
 
-> **Reproducibility disclosure:** A stranger cannot recreate the complete source-based build from this public README alone because the implementation is private. FlyRank reviewers may request an approved private review method to assess this criterion.
+**Evidence date:** October 11, 2026  
+**Tested version:** Portfolio before the latest Capstone redesign.
 
----
+| Metric | Recorded result |
+|---|---|
+| Desktop Performance | **97/100** |
+| Mobile Performance | **71–72/100** |
+| Accessibility | **100/100** |
+| Best Practices | **100/100** |
+| SEO | **100/100** |
+| Agentic Browsing | **2/2** |
 
-## 🧪 V2 evaluation and quality checks
+Additional recorded mobile metrics:
 
-**Evidence date:** 11 October 2026. **Method:** Static inspection of the local portfolio package `Yasmeen_Portfolio_COMPACT_VERIFIED.zip` (HTML, JavaScript, CSS, and bundled assets). These checks validate package structure only; they are **not** substitutes for live browser, mobile, accessibility, or end-to-end testing.
+- First Contentful Paint: 4.1 seconds
+- Largest Contentful Paint: 4.7 seconds
+- Total Blocking Time: 0 ms
+- Cumulative Layout Shift: 0
+- Speed Index: 5.1 seconds
 
-| Check | Observed result | Status |
-|:--|:--|:--|
-| Local HTML asset references | 15 local file references checked; 15 corresponding files exist in the package | **PASS — static** |
-| Internal section anchors | 16 in-page anchor references inspected; 0 unresolved targets | **PASS — static** |
-| Project images / accessible text | 10 image elements found; all 10 include nonempty `alt` text | **PASS — static** |
-| Portfolio section structure | Home, About, Projects, Skills, Experience, Certifications, Capstone, and Contact section IDs found in the HTML | **PASS — static** |
-| Desktop navigation interactions | Must click each navigation item in a real browser | **Not yet verified** |
-| Mobile layout / horizontal overflow | Must test on an actual phone or responsive browser viewport | **Not yet verified** |
-| Project filters | Must interact with filters and confirm displayed cards | **Not yet verified** |
-| External GitHub and demo destinations | Must open and confirm every destination | **Not yet verified** |
-| CV download | CV file exists in the package; download behavior must be checked in browser | **Partially checked** |
-| Contact form | Must submit a controlled test and verify receipt or expected result | **Not yet verified** |
-| Keyboard accessibility / focus | Requires manual keyboard testing | **Not yet verified** |
-| Mobile performance | Requires a measured mobile test, such as Lighthouse | **Not yet measured** |
+The mobile results indicate that performance optimization remains a potential improvement area.
 
-**Static evaluation summary:** 4 / 4 static inspection categories passed. This is **not a website-wide pass rate** and no numeric v2 performance or user-experience score has been established. Record browser/device, test date, observed outcomes, and screenshots or video before reporting end-to-end v2 results.
+**Important:** These are historical measured results. A fresh PageSpeed evaluation is required to establish scores for the final redesigned version.
 
-## 🧩 Design decisions
+### 3. Functional and Visual Testing
 
-**One portfolio instead of scattered project links.** The portfolio brings project evidence, background, skills, and contact information together so reviewers can form a coherent picture without searching multiple platforms.
+**Latest testing period:** October 2026
 
-**Consistent case-study storytelling.** The **Problem → What I Did → What Came of It** format emphasizes contribution and evidence rather than broad technical claims.
+The redesigned portfolio was run locally, visually reviewed through screen recordings, and subsequently tested by the project owner on desktop and mobile.
 
-**Documentation separated from source.** Public documentation makes the project easier to review while keeping the implementation private. The trade-off is reduced independent reproducibility.
+| Area | Status |
+|---|---|
+| Desktop layout | User-tested |
+| Mobile responsive layout | User-tested |
+| Hero presentation | Visually reviewed |
+| Scroll and reveal animations | Implemented and user-tested |
+| Featured Projects layout | Visually reviewed |
+| Capstone card redesign | Completed and visually reviewed |
+| Project-card hover effects | User-tested |
+| Navigation and project filters | User-tested; detailed results not recorded |
+| External links | Individual destination verification not documented |
+| CV download | File presence checked; download result not documented |
+| Contact-form delivery | End-to-end delivery not documented |
+| Keyboard accessibility | Manual audit not documented |
+| Final-version PageSpeed | Retest pending |
 
-## ⚠️ Known limitations
+These status descriptions distinguish user-reported testing from independently recorded measurements.
 
-- **Private source:** Public documentation alone does not allow a stranger to rebuild the site from scratch.
-- **Evaluation partially completed:** Local static package checks passed; browser interactions, cross-device behavior, accessibility, and performance still need dated evidence.
-- **Building in Public:** The section currently describes planned notes and updates rather than a complete technical blog.
-- **NEXA:** Identified as a future case study; it should not be described as completed until tested and ready.
-- **Graduate badge:** An official FlyRank badge should only be displayed once issued, with its verification link.
+## 🧩 Design Decisions
 
-## 🤝 AI assistance and verification
+### Evidence-First Portfolio
 
-**AI tools and scope:** I used **Claude** as an AI-assisted development and planning tool to help organize the portfolio, refine written case-study content, and iterate on interface/layout ideas. AI assistance was part of the workflow; it should not be interpreted as proof that AI-generated suggestions were correct or production-ready.
+Instead of relying only on a list of technologies, the portfolio provides project context and direct access to supporting work.
 
-**My responsibility:** I chose the portfolio's purpose, project selection, case-study structure (**Problem → What I Did → What Came of It**), and final presentation. I reviewed and integrated the material into my portfolio, deployed it, and am responsible for the accuracy of claims and for checking user-facing behavior. For this README, I also inspected the local site package and recorded only the static results supported by that inspection.
+### Consistent Project Presentation
 
-**Verification boundary:** The local package checks above do not establish that the contact form delivers messages, that external links work today, or that the site is fully accessible or mobile-tested. Those require separate live checks, which remain open. NEXA is still in progress and is not represented as a finished project.
+Featured Projects use a shared card design, making the portfolio easier to scan and navigate.
 
-## 🎬 Live demo
+### Compact FlyRank Capstone
 
-**Planned length:** 3–5 minutes · **Format:** live screen recording with narration · **Slides:** none
+The Capstone section was redesigned to match the Featured Projects card layout.
 
-| Time | Show on screen | Explain |
-|:--|:--|:--|
-| 0:00–0:35 | Live home page | Purpose and intended audience |
-| 0:35–1:40 | Projects and a working filter | One real interaction and the project evidence |
-| 1:40–2:30 | Project details and external links | Why evidence-led case studies were chosen |
-| 2:30–3:15 | Skills, certifications, CV or contact | Practical visitor journey |
-| 3:15–4:10 | Building in Public | Honest limitation and next improvement |
-| 4:10–4:40 | Return to home page | AI assistance, human verification, and wrap-up |
+This removed oversized nested containers and separate Challenge, Solution, and Outcome panels while preserving the project description, screenshot, live website, documentation, and approval status.
 
-**Demo video URL:** *Add the actual public or unlisted video link after recording.*
+### Motion and Interaction
 
----
+Subtle animations, section reveals, and hover effects were introduced to make the interface engaging without changing the underlying content or navigation.
+
+### Private Source, Public Documentation
+
+The implementation remains private, while public documentation explains the purpose, architecture, usage, decisions, limitations, and evaluation evidence.
+
+## ⚠️ Known Limitations
+
+- The private source prevents complete independent source-based reproducibility.
+- Some projects do not yet have publicly accessible live demonstrations.
+- The Building in Public section can be expanded with more technical case studies.
+- Mobile performance has room for improvement based on the October 11 measurement.
+- Final-version performance and complete end-to-end functional results have not yet been documented.
+- NEXA remains in development and should not be presented as a completed project.
+- An official FlyRank graduate badge will only be added after it is issued.
+
+## 🤝 AI Assistance and Verification
+
+AI-assisted tools, including Claude, were used to support portfolio planning, content organization, interface iteration, and development activities.
+
+AI assistance helped accelerate the workflow, but generated suggestions were not treated as automatically correct.
+
+I remained responsible for project selection, technical content, portfolio decisions, integration, testing, deployment, and the accuracy of the published material.
+
+The final documentation distinguishes recorded results, user-reported checks, and items still awaiting independent verification.
+
+## 🎬 Live Demo
+
+**Planned duration:** 3–5 minutes  
+**Format:** Live portfolio walkthrough with narration  
+**Status:** Pending final recording
+
+| Time | Demonstration |
+|---|---|
+| 0:00–0:35 | Introduce the portfolio and its purpose |
+| 0:35–1:40 | Explore Featured Projects and filters |
+| 1:40–2:30 | Demonstrate project evidence and explain a design decision |
+| 2:30–3:15 | Show skills, certifications, CV, and contact options |
+| 3:15–4:10 | Explain the FlyRank Capstone and a known limitation |
+| 4:10–4:40 | Discuss AI assistance, verification, and next steps |
+
+**Demo video:** To be added after recording.
 
 ## 🗺️ Roadmap
 
-- [ ] Finish and validate **NEXA** before publishing it as a portfolio case study.
-- [ ] Publish technical notes and project retrospectives.
-- [x] Record local static package inspection results (11 October 2026).
-- [ ] Record and link dated browser-functional, accessibility, and mobile test evidence.
-- [ ] Add the official FlyRank graduate badge and verification link when issued.
-- [ ] Attach the 3–5 minute live demo to this README and the FlyRank showcase submission.
+- [x] Build and deploy the professional AI/ML portfolio.
+- [x] Receive FlyRank Impact Project approval.
+- [x] Redesign the Capstone to match Featured Projects.
+- [x] Implement portfolio animations.
+- [x] Perform desktop and mobile user testing.
+- [x] Document the October 11 static and performance evaluation.
+- [x] Update public documentation.
+- [ ] Re-run PageSpeed on the final deployed version.
+- [ ] Document remaining end-to-end functional checks.
+- [ ] Record and publish the 3–5-minute narrated demo.
+- [ ] Submit final documentation and video to FlyRank.
+- [ ] Publish additional technical case studies.
+- [ ] Complete and validate NEXA before featuring it as finished work.
+- [ ] Add the official FlyRank graduate badge when issued.
 
 ---
 
-<div align="center">
-
 ### Built to show the work, not just describe it.
 
-**[Visit yasmeenazmat.com ↗](https://yasmeenazmat.com)**
+**[Visit My Portfolio ↗](https://yasmeenazmat.com)**
 
-<sub>FlyRank General AI Fluency capstone documentation · © 2026 Yasmeen Azmat Ali · Source code remains private</sub>
-
-</div>
+FlyRank General AI Fluency Capstone · © 2026 Yasmeen Azmat Ali  
+Public documentation · Private implementation
