@@ -1,27 +1,27 @@
- <div align="center">
+<div align="center">
 
-# ✦ Yasmeen Azmat Ali
+<sub><strong>PROJECT DOCUMENTATION  /  GENERAL AI FLUENCY</strong></sub>
 
-### From Projects to Proof
-**AI/ML Engineering Portfolio**
+# ✦ From Projects to Proof
 
-*Applied AI · Machine Learning · Agentic Systems · Full-Stack Engineering*
+### AI/ML Engineering Portfolio · Technical Case Study
 
-[![Live Portfolio](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Visit_Website-ec4899?style=for-the-badge)](https://yasmeenazmat.com)
-[![FlyRank](https://img.shields.io/badge/FLYRANK-2026_CAPSTONE-8b5cf6?style=for-the-badge)](https://aifluency.flyrank.ai/)
-![Approved](https://img.shields.io/badge/IMPACT_PROJECT-APPROVED-10b981?style=for-the-badge)
+A public, evidence-first portfolio connecting technical projects, demonstrable results, engineering decisions, and transparent limitations.
 
-### Building intelligent systems. Showing the engineering behind them.
+[![PORTFOLIO: LIVE](https://img.shields.io/badge/PORTFOLIO-LIVE-ec4899?style=flat-square)](https://yasmeenazmat.com/) &nbsp; [![IMPACT PROJECT: ACCEPTED](https://img.shields.io/badge/IMPACT_PROJECT-ACCEPTED-22c55e?style=flat-square)](https://internship.flyrank.ai/) &nbsp; [![CERTIFICATE: ISSUED](https://img.shields.io/badge/CERTIFICATE-ISSUED-8b5cf6?style=flat-square)](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen)
 
-A professional, evidence-first portfolio bringing together my AI/ML projects, technical decisions, live demonstrations, engineering experience, and professional achievements.
+**Yasmeen Azmat Ali** · 2026
 
-**[Explore Portfolio ↗](https://yasmeenazmat.com)** · **[Final FL-10 Submission Index ↗](FINAL_SUBMISSION_INDEX.md)** · **[Verified FlyRank Credential ↗](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen)** · **[Contact ↗](https://yasmeenazmat.com/#contact)**
-
-*FlyRank General AI Fluency · Impact Project approved October 5, 2026*
+[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md)
 
 </div>
 
 ---
+
+> **On this page:** [Project snapshot](#-project-snapshot) · [Engineering work](#-featured-engineering-work) · [Architecture](#️-system-architecture) · [Evaluation](#-performance--quality) · [Limitations](#️-known-limitations) · [Demo](#-live-demonstration)
+
+---
+
 
 ## ✨ Project Snapshot
 
@@ -317,16 +317,10 @@ I built and refined this portfolio with assistance from Claude AI, particularly 
 
 <div align="center">
 
-### ✦ Built to show the work, not just describe it.
+**Built with care · Evaluated with evidence · Presented with transparency**
 
-**AI Engineering · Technical Evidence · Real-World Applications**
+[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md)
 
-[![Visit Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-↗-ec4899?style=for-the-badge)](https://yasmeenazmat.com)
+<sub>FlyRank General AI Fluency · Yasmeen Azmat Ali · 2026</sub>
 
-**Yasmeen Azmat Ali**
-
-*FlyRank General AI Fluency Capstone · 2026*
-
-*Public documentation · Private implementation*
-
-</div> 
+</div>
