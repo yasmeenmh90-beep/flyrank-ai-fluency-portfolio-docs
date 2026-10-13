@@ -6,7 +6,7 @@
 
 ### Specialist intelligence · routing · operational controls · engineering evidence
 
-[![PUBLIC DEMO](https://img.shields.io/badge/PUBLIC_DEMO-LIVE-8b5cf6?style=flat-square)](https://nexa-public.netlify.app/) ![EVIDENCE](https://img.shields.io/badge/EVIDENCE-15_UPLOADED_OF_18-64748b?style=flat-square) ![PRIVATE INTEGRATIONS](https://img.shields.io/badge/PRIVATE_INTEGRATION-NOT_PUBLIC-f59e0b?style=flat-square)
+[![PUBLIC DEMO](https://img.shields.io/badge/PUBLIC_DEMO-LIVE-8b5cf6?style=flat-square)](https://nexa-public.netlify.app/) ![EVIDENCE](https://img.shields.io/badge/EVIDENCE-17_VERIFIED_OF_18-64748b?style=flat-square) ![PRIVATE INTEGRATIONS](https://img.shields.io/badge/PRIVATE_INTEGRATION-NOT_PUBLIC-f59e0b?style=flat-square)
 
 **Yasmeen Azmat Ali** · October 2026
 
@@ -69,7 +69,7 @@ flowchart LR
 
 ## 04 · Individual workflow walkthroughs
 
-> **Screenshot status:** 15 PNG images are present in [`assets/n8n/`](assets/n8n/). Three test/template screenshots remain to be uploaded. Images are editor screenshots, not execution-level validation. Review each file for personal or secret information.
+> **Screenshot status:** 17 of the 18 catalogue entries have confirmed PNG links under [`assets/n8n/`](assets/n8n/), including the newly verified Probe Caller and Starter Sub-workflow. The Sub-workflow Error Probe still needs its exact repository image filename confirmed. These are editor screenshots, **not execution-level validation**. Review all images for personal or secret information.
 
 <a id="workflow-01"></a>
 
@@ -277,7 +277,7 @@ flowchart LR
 - Small deliberate-failure sub-workflow used to test error propagation from a called workflow.
 - **Evidence boundary:** A workflow diagram is a test setup, not evidence of a passed test.
 
-**Workflow screenshot 14:** Not uploaded yet; add a sanitized image to `assets/n8n/` when available.
+**Workflow screenshot 14:** The screenshot was supplied for review, but no matching repository image path has been confirmed. Check the exact filename in `assets/n8n/` before embedding; do not link a guessed path.
 
 <a id="workflow-15"></a>
 
@@ -305,7 +305,9 @@ flowchart LR
 - Webhook-driven test caller invokes a failing sub-workflow to exercise error propagation.
 - **Evidence boundary:** Requires a recorded test execution to claim pass/fail.
 
-**Workflow screenshot 16:** Not uploaded yet; add a sanitized image to `assets/n8n/` when available.
+**Workflow screenshot 16** · [Full-size image](assets/n8n/SubWorkflowProbeCaller.png)
+
+![Sub-workflow Probe Caller n8n workflow screenshot](assets/n8n/SubWorkflowProbeCaller.png)
 
 <a id="workflow-17"></a>
 
@@ -333,7 +335,9 @@ flowchart LR
 - Generic 'When Executed by Another Workflow' template with a replace-me node, included as development context.
 - **Evidence boundary:** Not a NEXA production capability; optionally omit from the public gallery.
 
-**Workflow screenshot 18:** Not uploaded yet; add a sanitized image to `assets/n8n/` when available.
+**Workflow screenshot 18** · [Full-size image](assets/n8n/StarterSubWorkflow.png)
+
+![Starter Sub-workflow n8n workflow screenshot](assets/n8n/StarterSubWorkflow.png)
 
 
 ## 05 · Public-versus-private boundaries
@@ -359,8 +363,9 @@ flowchart LR
 - [x] Document the NEXA public-demo testing in [NEXA_TESTING_REPORT.md](NEXA_TESTING_REPORT.md)
 - [x] Capture screenshots of 18 n8n workflow definitions, including test and placeholder workflows
 - [x] Prepare architecture descriptions, workflow inventory and truthful status labels
-- [x] Upload and embed **15** n8n screenshots
-- [ ] Upload 3 remaining test/template screenshots and embed them
+- [x] Upload and embed **17 of 18** n8n screenshots with confirmed repository image paths
+- [x] Link the **Sub-workflow Probe Caller** and **Starter Sub-workflow** PNGs by their verified filenames
+- [ ] Confirm the filename/path and embed the **Sub-workflow Error Probe** screenshot
 - [ ] Record sanitized execution-level evidence for each intended integration
 - [ ] Design and implement an authenticated, authorized owner-only API boundary
 - [ ] Verify action approvals, storage/privacy protections, and operational monitoring
