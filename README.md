@@ -263,13 +263,7 @@ Documentation is public for reviewers, while implementation source files remain 
 
 ## 🤝 AI Assistance & Human Verification
 
-AI-assisted tools, including Claude, supported planning, content organization, interface refinement, and development activities.
-
-AI-generated suggestions were not assumed to be correct without review.
-
-I remained responsible for project selection, engineering decisions, content accuracy, integration, testing, and deployment.
-
-The evaluation section separates measured evidence, static verification, user-reported testing, and pending checks.
+I built and refined this portfolio with assistance from Claude AI, particularly for frontend development, interface design, and documentation. I selected the projects, reviewed the generated work, tested the website on desktop and mobile, and verified the recorded evaluation results. I remain responsible for the final implementation and published content.
 
 ---
 
