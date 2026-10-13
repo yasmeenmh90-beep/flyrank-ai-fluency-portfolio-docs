@@ -277,7 +277,9 @@ flowchart LR
 - Small deliberate-failure sub-workflow used to test error propagation from a called workflow.
 - **Evidence boundary:** A workflow diagram is a test setup, not evidence of a passed test.
 
-**Workflow screenshot 14:** The screenshot was supplied for review, but no matching repository image path has been confirmed. Check the exact filename in `assets/n8n/` before embedding; do not link a guessed path.
+**Workflow screenshot 15** · [Full-size image](assets/n8n/ErrorCaptureProbe.png)
+
+![Sub-workflow Error Probe n8n workflow architecture](assets/n8n/ErrorCaptureProbe.png)
 
 <a id="workflow-15"></a>
 
