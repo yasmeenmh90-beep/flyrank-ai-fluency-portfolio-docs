@@ -12,7 +12,7 @@ A public, evidence-first portfolio connecting technical projects, demonstrable r
 
 **Yasmeen Azmat Ali** · 2026
 
-[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md)
+[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md) &nbsp;·&nbsp; [**n8n Workflow Atlas**](NEXA_WORKFLOWS.md)
 
 </div>
 
@@ -305,6 +305,10 @@ I built and refined this portfolio with assistance from Claude AI, particularly 
 - [x] Publish the [NEXA public engineering case study and sample demo](https://nexa-public.netlify.app/)
 - [x] Document [NEXA functional, responsive, and accessibility testing](NEXA_TESTING_REPORT.md)
 
+### 🧩 NEXA n8n Architecture Evidence
+
+The separate [**NEXA Workflow Atlas**](NEXA_WORKFLOWS.md) documents 18 captured n8n workflow editor screens, with descriptions of the specialist routes, main orchestration, test probes, implementation states and verification limits. Screenshots will be embedded once reviewed PNG files are uploaded to `assets/n8n/`; a screenshot is not treated as proof of a successful runtime execution.
+
 ### 🔬 Evidence and scope
 
 The **NEXA public demonstration** was tested with sample actions and fictional content; the user also checked responsive device previews, navigation/FAQ interactions, and browser network activity. A supplied **NEXA Lighthouse** screenshot shows **Performance 100, Accessibility 96, Best Practices 100, and SEO 100** for that audit. These scores apply to **NEXA**, **not** to yasmeenazmat.com, and automated scores do not establish a complete manual accessibility or security audit. NEXA's secure private backend remains planned.
@@ -328,7 +332,7 @@ The portfolio's separately recorded **October 11 PageSpeed** results above refer
 
 **Built with care · Evaluated with evidence · Presented with transparency**
 
-[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md)
+[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md) &nbsp;·&nbsp; [**n8n Workflow Atlas**](NEXA_WORKFLOWS.md)
 
 <sub>FlyRank General AI Fluency · Yasmeen Azmat Ali · 2026</sub>
 
