@@ -63,7 +63,7 @@
 
 ### Continuing the portfolio · NEXA next case study
 
-The **second General AI Fluency capstone** documents the ongoing NEXA project and its repeatable publication plan: **[Read the NEXA next-case-study plan](NEXT_CASE_STUDY_PLAN.md)** · **[Explore NEXA public showcase ↗](https://nexa-public.netlify.app/)**. The NEXA site URL was provided by the participant; independent production testing is pending. The showcase uses fictional demonstration data, while authenticated personal workflows remain separate and not publicly accessible.
+The **second General AI Fluency capstone** documents the ongoing NEXA project and its repeatable publication plan: **[Read the NEXA next-case-study plan](NEXT_CASE_STUDY_PLAN.md) · **[NEXA testing report](NEXA_TESTING_REPORT.md)**** · **[Explore NEXA public showcase ↗](https://nexa-public.netlify.app/)**. The NEXA site URL was provided by the participant; independent production testing is pending. The showcase uses fictional demonstration data, while authenticated personal workflows remain separate and not publicly accessible.
 
 ## 03 · Engineering Story
 
