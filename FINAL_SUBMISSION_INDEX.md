@@ -187,6 +187,21 @@ The **General AI Fluency Track evidence transcript** provided by the participant
 
 This **D11 certificate** and the **D7 progress report** are separate issued documents with different reference numbers and issuer-listed internship dates. Each is presented with its own original details; no dates have been changed.
 
+### FlyRank AI Fluency certificate — issued verification
+
+| Credential field | FlyRank public verifier |
+|:---|:---|
+| **Reference** | **FR-D11-46948-FE5B2** |
+| **Document** | D11 · Certificate of Completion |
+| **Recipient** | Yasmeen Azmat |
+| **Track** | AI Fluency |
+| **Cohort** | July 2026 |
+| **Internship dates** | July 1 – October 10, 2026 |
+| **Issued** | October 13, 2026 |
+| **Verifier** | [Open FlyRank D11 verification ↗](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen) |
+
+The D11 certificate is a different document from the D7 internship progress report. Both original document IDs and their issuer-listed dates are preserved without alteration.
+
 ### Official program evidence
 
 - **AI Fluency:** FlyRank Completion dashboard shows **Qualified**; **24/5** recorded assignments and **Accepted** capstone (October 5, 2026). Its *Track evidence transcript* includes submitted assignment timestamps and available “Open submitted evidence” links for reviewers with portal access.
