@@ -55,7 +55,7 @@ This file is the **single entry point** for the FlyRank General AI Fluency final
 | **Personal retrospective** | [Read final reflection](RETROSPECTIVE.md) | ✅ Published |
 | **AI-assistance transparency** | [README — AI assistance](README.md#-ai-assistance--human-verification) | ✅ Documented |
 | **Quality and performance evidence** | [README — Performance & Quality](README.md#-performance--quality) | 🟡 Historical measurements; final retest pending |
-| **Build-in-public story** | [Read the LinkedIn launch story ↗](https://www.linkedin.com/feed/update/urn:li:activity:7515693667693666306/) | ✅ Published |
+| **Build-in-public story** | [Read the LinkedIn launch story ↗](https://www.linkedin.com/posts/yasmeen-azmat-a02b44340_flyrank-aifluency-aiengineering-ugcPost-7515709803814465536-py0s/) | ✅ Published |
 | **Dated hours and activity report** | [FlyRank-issued progress report verification ↗](https://internship.flyrank.ai/verify?id=FR-D7-B109D-82922) · [report details](#04--flyrank-progress-report--recorded-hours) | ✅ Report issued; 151 **estimated** hours documented (FL-10 acceptance not separately confirmed) |
 | **Final human sign-off** | Add final review/submission reference | ⏳ Pending |
 | **FlyRank AI Fluency credential** | [Verify issued credential ↗](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen) · Badge visible in the portfolio's Certifications section | ✅ Issued October 13, 2026 |
@@ -167,7 +167,7 @@ The **General AI Fluency Track evidence transcript** provided by the participant
 |:---|:---|
 | **FL-09 documentation + demo** | [README](README.md) · [3:07 demo ↗](https://www.youtube.com/watch?v=45gVlp1G5Wk) |
 | **FL-10 retrospective** | [Retrospective](RETROSPECTIVE.md) |
-| **FL-10 public story** | [LinkedIn build-in-public post ↗](https://www.linkedin.com/feed/update/urn:li:activity:7515693667693666306/) |
+| **FL-10 public story** | [LinkedIn build-in-public post ↗](https://www.linkedin.com/posts/yasmeen-azmat-a02b44340_flyrank-aifluency-aiengineering-ugcPost-7515709803814465536-py0s/) |
 | **FL-10 hours and review** | [Issued FlyRank progress-report verification](https://internship.flyrank.ai/verify?id=FR-D7-B109D-82922) · final checkpoint sign-off not separately confirmed |
 
 **Evidence access:** [FlyRank internship portal ↗](https://internship.flyrank.ai/) — transcript and “Open submitted evidence” controls may require reviewer authentication. To satisfy the literal FL-10 criterion of *every deliverable present and reachable from the index*, attach direct artifact links or an accessible evidence bundle as they become available.
@@ -177,7 +177,7 @@ The **General AI Fluency Track evidence transcript** provided by the participant
 - **AI Fluency:** FlyRank Completion dashboard shows **Qualified**; **24/5** recorded assignments and **Accepted** capstone (October 5, 2026). Its *Track evidence transcript* includes submitted assignment timestamps and available “Open submitted evidence” links for reviewers with portal access.
 - **Learning/work hours:** FlyRank Documents displays **151 estimated hours**, derived from tracked activities. These are **not represented as individually verified timesheet hours** here.
 - **Credential:** [FlyRank AI Fluency verified record ↗](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen), issued October 13, 2026. The linked badge is shown in the site's Certifications section; **footer placement remains to be checked** against the literal Week 7 wording.
-- **Submission links already supplied:** [YouTube demo](https://www.youtube.com/watch?v=45gVlp1G5Wk) · [documentation repository](https://github.com/yasmeenmh90-beep/flyrank-ai-fluency-portfolio-docs) · [live website](https://yasmeenazmat.com/) · [LinkedIn build-in-public story](https://www.linkedin.com/feed/update/urn:li:activity:7515693667693666306/) · [Website Launches record](https://websitelaunches.com/site/yasmeenazmat.com).
+- **Submission links already supplied:** [YouTube demo](https://www.youtube.com/watch?v=45gVlp1G5Wk) · [documentation repository](https://github.com/yasmeenmh90-beep/flyrank-ai-fluency-portfolio-docs) · [live website](https://yasmeenazmat.com/) · [LinkedIn build-in-public story](https://www.linkedin.com/posts/yasmeen-azmat-a02b44340_flyrank-aifluency-aiengineering-ugcPost-7515709803814465536-py0s/) · [Website Launches record](https://websitelaunches.com/site/yasmeenazmat.com).
 - **Independent reproducibility limit:** The site's complete source is private. The README explains the steps available to authorized source holders but the public documentation alone cannot recreate the exact implementation.
 
 ## 03 · Engineering Story
