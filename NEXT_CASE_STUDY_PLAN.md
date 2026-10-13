@@ -10,13 +10,13 @@
 [![Project Phase](https://img.shields.io/badge/NEXA-IN_DEVELOPMENT-ec4899?style=for-the-badge)](#05--immediate-development-milestone)
 [![Next Step](https://img.shields.io/badge/NEXT_STEP-ARCHITECTURE_REVIEW-334155?style=for-the-badge)](#03--next-development-milestone)
 
-**[🌐 View AI/ML Portfolio ↗](https://yasmeenazmat.com/)** · **[📘 Portfolio Documentation ↗](README.md)** · **[📂 Final Submission Index ↗](FINAL_SUBMISSION_INDEX.md)**
+**[✦ NEXA Public Showcase ↗](https://nexa-public.netlify.app/)** · **[🌐 View AI/ML Portfolio ↗](https://yasmeenazmat.com/)** · **[📘 Portfolio Documentation ↗](README.md)** · **[📂 Final Submission Index ↗](FINAL_SUBMISSION_INDEX.md)**
 
 </div>
 
 ---
 
-> **Project status:** NEXA is an active engineering project. This document outlines my **next case study and the repeatable process for publishing it**. The private application, authenticated external website gateway, and complete public showcase are **planned work, not claimed as launched**.
+> **Project status:** NEXA is an active engineering project. Its public engineering showcase now has a participant-provided Netlify URL: **[nexa-public.netlify.app ↗](https://nexa-public.netlify.app/)**. Screenshots show the public case-study frontend and fictional sample demo; independent live-site testing remains pending. The owner-only private application, authenticated gateway, and real frontend-to-n8n integration are **not yet claimed as deployed**.
 
 ## At a Glance
 
@@ -26,18 +26,20 @@
 | **Track** | FlyRank General AI Fluency |
 | **Next featured project** | **NEXA — Personal AI Operations Agent** |
 | **Already completed** | React/TypeScript frontend v6 prototype and documented local testing; existing n8n specialist routing reported as verified separately |
-| **Still planned** | Secure external integration, voice/authentication implementation, private deployment and public showcase |
+| **Public showcase** | [NEXA public Netlify URL ↗](https://nexa-public.netlify.app/) — deployment URL supplied; independent access/functionality check pending |
+| **Still planned** | Secure external integration, voice/authentication implementation, private deployment and addition to main portfolio |
 | **Project focus** | Agentic AI · Workflow Orchestration · Full-Stack Engineering · Privacy |
 | **Frontend under development** | React · TypeScript |
 | **Existing orchestration platform** | n8n |
 | **Next milestone** | Phase 14.1 — Read-only Architecture & Security Assessment |
-| **Public website** | [yasmeenazmat.com ↗](https://yasmeenazmat.com/) |
+| **Main portfolio** | [yasmeenazmat.com ↗](https://yasmeenazmat.com/) |
+| **NEXA showcase URL** | [nexa-public.netlify.app ↗](https://nexa-public.netlify.app/) |
 | **Private NEXA domain** | `nexa.yasmeenazmat.com` — planned, owner-only |
 | **Reminder evidence** | Apple Reminders screenshot submitted with the accepted impact project; a refreshed follow-up is still to be scheduled |
 
 ## 01 · The Next Case Study
 
-My next portfolio addition will document **NEXA**, a personal AI assistant project that brings together a frontend interface and an existing n8n-based assistant architecture.
+I have now created a dedicated **NEXA public engineering case-study website** at [nexa-public.netlify.app](https://nexa-public.netlify.app/), based on a React/TypeScript frontend and the existing n8n-based assistant architecture. My next portfolio-maintenance task is to link this case study from my main portfolio after checking its deployed content and links.
 
 The aim is not simply to show a chatbot interface. I want to explain the engineering behind a personal AI system: its agent routing, controlled data access, integration boundaries, user experience, and the decisions required to make it useful without compromising privacy.
 
@@ -45,7 +47,7 @@ The aim is not simply to show a chatbot interface. I want to explain the enginee
 
 | 🔐 Private assistant | 🌐 Public project showcase |
 |:---|:---|
-| **Planned domain:** `nexa.yasmeenazmat.com` | **Portfolio:** [yasmeenazmat.com](https://yasmeenazmat.com/) |
+| **Planned domain:** `nexa.yasmeenazmat.com` | **NEXA showcase:** [nexa-public.netlify.app](https://nexa-public.netlify.app/); future link from [yasmeenazmat.com](https://yasmeenazmat.com/) |
 | Owner-only authenticated experience | Recruiter-friendly technical case study |
 | Text interaction and planned voice/avatar features | Architecture, screenshots, engineering decisions and walkthrough |
 | Secure server-side connection to permitted n8n specialist workflows | Safe sample content only — no real personal data |
@@ -54,6 +56,15 @@ The aim is not simply to show a chatbot interface. I want to explain the enginee
 **Security boundary:** Any public example or simulated demo will remain isolated from the authenticated private-data API.
 
 ## 02 · What I Have Already Completed
+
+### Public case-study frontend — now built
+
+The screenshots supplied on October 13, 2026 show a dedicated NEXA engineering showcase with **Overview, Demo, Architecture, Security, Development, Case study, and FAQ** navigation; a consistent violet visual identity; a screenshot gallery; and a clear **Problem → What I Did → What Came of It** narrative.
+
+The showcase presents a **fictional-data sample interaction**, six example actions, four visual avatar states and an architectural distinction between an implemented browser-local demonstration and a **proposed** authenticated private request path. It also describes TypeScript/build checks and limitations. The site is associated with the user-provided deployment URL **[nexa-public.netlify.app ↗](https://nexa-public.netlify.app/)**; independent production loading, latest-device behavior, and button functionality have **not** been verified in this review.
+
+**What this proves:** the public-facing case-study interface has been designed and documented. **What it does not prove:** connection to personal accounts, real AI responses from this public demo, production-grade authentication, or working private NEXA deployment.
+
 
 NEXA is an **active project, not just a proposed idea**. The current evidence comes from the frontend v6 redesign notes and the existing n8n workflow-routing work reported for the project. These are different layers of the system; completing each separately does **not** mean that secure end-to-end integration is finished.
 
@@ -115,7 +126,7 @@ These images demonstrate **implemented workflow structure** across routing, Gmai
 | **14.3 — Private assistant integration** | Connect the React frontend to approved read-only specialist routes | Real end-to-end calls verified without browser-exposed secrets |
 | **14.4 — Voice and experience** | Replace simulated microphone, assistant responses and login with functioning implementations; improve avatar/voice behavior | Real-device functional and privacy testing |
 | **14.5 — Deployment & hardening** | Deploy owner-only `nexa.yasmeenazmat.com`, retain backups, test rollback and responsive behavior | Authenticated production smoke tests and documented limitations |
-| **14.6 — Public portfolio case study** | Add NEXA to `yasmeenazmat.com` with Problem → What I Did → What Came of It, screenshots, safe architecture, demo and lessons | Published project entry and working public links |
+| **14.6 — Main portfolio integration** | Verify the existing NEXA public showcase, link it from `yasmeenazmat.com` as the next case study, and preserve the three-beat story | Main-portfolio project entry and checked production links |
 
 **Publication rule:** The public showcase may discuss work in progress when clearly labeled, but it must never expose private assistant data or suggest that simulated frontend interactions are live backend operations.
 
@@ -197,6 +208,7 @@ With this context preserved, a new case study becomes a focused update rather th
 | **New reminder evidence** | Add screenshot after scheduling the next date |
 | **Preserved build context** | Existing Claude Project and ongoing portfolio development workspace |
 | **Public portfolio** | [yasmeenazmat.com ↗](https://yasmeenazmat.com/) |
+| **Dedicated NEXA showcase** | [nexa-public.netlify.app ↗](https://nexa-public.netlify.app/) · deployment link provided; independent production testing pending |
 | **Documentation repository** | [FlyRank AI Fluency portfolio docs ↗](https://github.com/yasmeenmh90-beep/flyrank-ai-fluency-portfolio-docs) |
 
 > **Submission scope:** This capstone establishes the **where**, **how**, **what next**, and **when** for my future portfolio work. It does not require me to expose NEXA's private system or claim unfinished functionality as a released product.
@@ -207,7 +219,7 @@ With this context preserved, a new case study becomes a focused update rather th
 
 ### Build with purpose. Verify the result. Share the evidence.
 
-**[🌐 Portfolio](https://yasmeenazmat.com/)** · **[📘 Documentation](README.md)** · **[📂 Final Index](FINAL_SUBMISSION_INDEX.md)**
+**[✦ NEXA Showcase](https://nexa-public.netlify.app/)** · **[🌐 Portfolio](https://yasmeenazmat.com/)** · **[📘 Documentation](README.md)** · **[📂 Final Index](FINAL_SUBMISSION_INDEX.md)**
 
 <sub>FlyRank General AI Fluency · NEXA Next Case Study Plan · 2026</sub>
 
