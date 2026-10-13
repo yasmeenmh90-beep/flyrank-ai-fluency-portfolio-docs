@@ -69,7 +69,7 @@ The **second General AI Fluency capstone** documents the ongoing NEXA project an
 
 ### NEXA workflow documentation
 
-The [**NEXA n8n Workflow Atlas**](NEXA_WORKFLOWS.md) catalogues 18 workflow screenshots and explicitly separates published specialist definitions, unpublished capabilities, and test/placeholder flows. Image uploads and sanitized execution-level evidence are still outstanding. The public demo remains isolated from private workflows.
+The [**NEXA n8n Workflow Atlas**](NEXA_WORKFLOWS.md) catalogues 18 workflow designs and explicitly separates published specialist definitions, unpublished capabilities, and test/placeholder flows. **17 of 18 screenshot paths are verified and embedded**, including [Sub-workflow Probe Caller](assets/n8n/SubWorkflowProbeCaller.png) and [Starter Sub-workflow](assets/n8n/StarterSubWorkflow.png). The Sub-workflow Error Probe filename still needs confirmation; sanitized execution-level evidence remains outstanding. The public demo remains isolated from private workflows.
 
 ## 03 · Engineering Story
 
