@@ -42,7 +42,7 @@ A staged technical roadmap linking the existing public prototype to a future aut
 | **Main portfolio** | [yasmeenazmat.com ↗](https://yasmeenazmat.com/) |
 | **NEXA showcase URL** | [nexa-public.netlify.app ↗](https://nexa-public.netlify.app/) |
 | **Private NEXA domain** | `nexa.yasmeenazmat.com` — planned, owner-only |
-| **Reminder evidence** | Apple Reminders screenshot submitted with the accepted impact project; a refreshed follow-up is still to be scheduled |
+| **Reminder evidence** | Updated Apple Reminders task scheduled for **21 October 2026**; screenshot supplied for FlyRank evidence |
 
 ## 01 · The Next Case Study
 
@@ -178,16 +178,18 @@ This is the **next immediate task**, not yet a completed integration. The assess
 
 A dated **Apple Reminders** task was already submitted as evidence with my accepted General AI Fluency impact project. It named NEXA as the next portfolio update and set a reminder for **October 12, 2026**. FlyRank's reviewer acknowledged this screenshot and the specificity of the planned work.
 
-Because that original reminder date has passed, I will set and document a fresh follow-up for the **Phase 14.1 assessment and next case-study update**.
+The original dated reminder has now been followed by a **new Apple Reminders task titled “NEXA — Complete & Publish Portfolio Case Study,” due 21 October 2026**. The updated screenshot supplied on 14 October shows the new reminder as the single active task, with one earlier task completed. Its notes specify the three-beat case study, n8n screenshot evidence, technical decisions, links, testing, publication and retention of the Claude Project. This is a planned follow-up, **not evidence that all listed future NEXA work is finished**.
+
+**Notification limitation:** The screenshot shows a macOS notice that Reminders notifications are disabled. The task is scheduled, but system notifications should be enabled to make the reminder effective.
 
 | Evidence | Status |
 |:---|:---|
 | Original named NEXA reminder and screenshot | ✅ Included with accepted impact-project submission |
-| New dated milestone reminder | ⏳ To be scheduled |
-| New reminder screenshot | ⏳ To be attached after it exists |
+| New dated milestone reminder | ✅ Scheduled in Apple Reminders for **21 October 2026** |
+| New reminder screenshot | ✅ Supplied in conversation on **14 October 2026**; attach or link the screenshot in the FlyRank submission evidence |
 | Actual NEXA public case-study release | ⏳ Future milestone |
 
-*I will retain the original reminder evidence and will not describe an unscheduled follow-up as completed.*
+*I will retain the original reminder evidence. The updated reminder is now scheduled; its due date is not a claim that the NEXA case study has already been published.*
 
 ## 07 · Preserving My Claude Project
 
@@ -212,7 +214,7 @@ With this context preserved, a new case study becomes a focused update rather th
 | **Future work roadmap** | Section 03 separates security architecture, integration, voice, deployment and public case study |
 | **Named next piece** | NEXA — Personal AI Operations Agent, Phase 14.1 |
 | **Earlier reminder evidence** | Accepted General AI Fluency impact-project submission in FlyRank; original Apple Reminders screenshot |
-| **New reminder evidence** | Add screenshot after scheduling the next date |
+| **New reminder evidence** | Apple Reminders screenshot supplied October 14, 2026 — “NEXA — Complete & Publish Portfolio Case Study,” due **21 October 2026**; screenshot needs uploading or attaching to the FlyRank evidence |
 | **Preserved build context** | Existing Claude Project and ongoing portfolio development workspace |
 | **Public portfolio** | [yasmeenazmat.com ↗](https://yasmeenazmat.com/) |
 | **Dedicated NEXA showcase** | [nexa-public.netlify.app ↗](https://nexa-public.netlify.app/) · browser screenshots and interaction testing supplied by project owner |
