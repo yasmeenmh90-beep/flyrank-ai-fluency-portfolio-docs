@@ -111,6 +111,22 @@ The public NEXA showcase has a working, visually demonstrated **fictional sample
 
 ---
 
+## 08 · Relation to FlyRank FL-09 evaluation
+
+This testing report evaluates the **NEXA public sample interface**, not the separate [FlyRank AI/ML portfolio](https://yasmeenazmat.com/) demonstrated in the [3:07 video](https://www.youtube.com/watch?v=45gVlp1G5Wk).
+
+| Evidence | Actual recorded result | Evaluation boundary |
+|:---|:---|:---|
+| NEXA sample interaction cases | **10/10** visually observed behaviors | Screenshot-based UI checks; not automation or backend execution |
+| NEXA Lighthouse | Performance **100**, Accessibility **96**, Best Practices **100**, SEO **100** | One displayed audit run; no exact mode or full findings provided |
+| NEXA Fetch/XHR inspection | **0** entries matched the selected filter during captures | Cannot rule out other request types or sessions |
+| NEXA n8n workflow atlas | **18** documented workflow designs, with images listed in [the workflow atlas](NEXA_WORKFLOWS.md) | Screenshots demonstrate routing designs and publication indicators, not end-to-end execution |
+| FlyRank portfolio | Earlier PageSpeed desktop **98**, mobile **71–72** | Separate project and earlier build; do not combine with NEXA Lighthouse |
+
+**No unsupported performance claims:** No measured agent task success rate, latency distribution, live-model accuracy, or controlled v2-versus-v1 comparison has been supplied. Therefore none is inferred from these screenshots. For the strict FL-09 reproducibility requirement, consult the [portfolio README's FL-09 assessment](README.md#-fl-09--documentation-and-demo-verification): the full source remains private.
+
+---
+
 <div align="center">
 
 **Built with care · Evaluated with evidence · Presented with transparency**
