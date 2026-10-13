@@ -28,7 +28,7 @@
 
 This file is the **single entry point** for the FlyRank General AI Fluency final checkpoint (FL-10). It connects the deployed site, supporting documentation, narrated demonstration, reflection, weekly work, and pending review requirements.
 
-> **Review status:** Core capstone materials are public. Earlier weekly submissions exist in the FlyRank internship portal, but direct evidence links still need to be collected here. Hours-log verification, the build-in-public post, and final human sign-off remain pending.
+> **Review status:** Core capstone materials are public. Earlier weekly submissions exist in the FlyRank internship portal, but direct evidence links still need to be collected here. Hours-log verification and final human sign-off remain pending.
 
 ## Submission at a Glance
 
@@ -53,7 +53,7 @@ This file is the **single entry point** for the FlyRank General AI Fluency final
 | **Personal retrospective** | [Read final reflection](RETROSPECTIVE.md) | ✅ Published |
 | **AI-assistance transparency** | [README — AI assistance](README.md#-ai-assistance--human-verification) | ✅ Documented |
 | **Quality and performance evidence** | [README — Performance & Quality](README.md#-performance--quality) | 🟡 Historical measurements; final retest pending |
-| **Build-in-public story** | Add URL after publication | ⏳ Pending |
+| **Build-in-public story** | [Read the LinkedIn launch story ↗](https://www.linkedin.com/feed/update/urn:li:activity:7515693667693666306/) | ✅ Published |
 | **Verified hours log** | Add reviewer-accessible evidence or portal confirmation | ⏳ Pending |
 | **Final human sign-off** | Add final review/submission reference | ⏳ Pending |
 | **Graduate credential** | Add official badge and verification link after issuance | ⏳ Pending issuance |
@@ -99,7 +99,7 @@ The work below was submitted in the [FlyRank internship portal ↗](https://inte
 | Assignment | Deliverables | Evidence |
 |:---|:---|:---|
 | **FL-09 — Show It / Tell the Story** | Public README and narrated live demo | [README](README.md) · [Demo ↗](https://www.youtube.com/watch?v=45gVlp1G5Wk) |
-| **FL-10 — Final Package** | Index, retrospective, public story, hours log and human review | [Retrospective](RETROSPECTIVE.md) · Other evidence **pending** |
+| **FL-10 — Final Package** | Index, retrospective, public story, hours log and human review | [Retrospective](RETROSPECTIVE.md) · [LinkedIn story ↗](https://www.linkedin.com/feed/update/urn:li:activity:7515693667693666306/) · Hours and review **pending** |
 
 </details>
 
@@ -136,7 +136,7 @@ The [README](README.md) preserves **dated** static verification, user-reported f
 - [x] Central FL-10 submission index prepared
 - [ ] Add direct, accessible links for Week 1–7 deliverables
 - [ ] Complete and verify the hours log in the portal
-- [ ] Publish the build-in-public story with a real design decision and limitation
+- [x] Publish the build-in-public story with a real design decision and limitation
 - [ ] Clarify the FL-10 FlyRank-domain requirement for the current custom-domain deployment
 - [ ] Submit the package for written human sign-off or a scheduled review
 - [ ] Add the FlyRank graduate badge when officially issued
