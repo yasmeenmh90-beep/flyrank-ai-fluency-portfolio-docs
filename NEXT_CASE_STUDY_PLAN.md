@@ -61,7 +61,7 @@ The aim is not simply to show a chatbot interface. I want to explain the enginee
 
 The screenshots supplied on October 13, 2026 show a dedicated NEXA engineering showcase with **Overview, Demo, Architecture, Security, Development, Case study, and FAQ** navigation; a consistent violet visual identity; a screenshot gallery; and a clear **Problem → What I Did → What Came of It** narrative.
 
-The showcase presents a **fictional-data sample interaction**, six example actions, four visual avatar states and an architectural distinction between an implemented browser-local demonstration and a **proposed** authenticated private request path. It also describes TypeScript/build checks and limitations. The site is associated with the user-provided deployment URL **[nexa-public.netlify.app ↗](https://nexa-public.netlify.app/)**; independent production loading, latest-device behavior, and button functionality have **not** been verified in this review.
+The showcase presents a **fictional-data sample interaction**, six example actions, four visual avatar states and an architectural distinction between an implemented browser-local demonstration and a **proposed** authenticated private request path. It also describes TypeScript/build checks and limitations. The site is associated with the user-provided deployment URL **[nexa-public.netlify.app ↗](https://nexa-public.netlify.app/)**; the owner has since provided screenshot evidence of sample interactions, responsive previews and a Lighthouse audit. See the [testing report](NEXA_TESTING_REPORT.md) for observations and limits.
 
 **What this proves:** the public-facing case-study interface has been designed and documented. **What it does not prove:** connection to personal accounts, real AI responses from this public demo, production-grade authentication, or working private NEXA deployment.
 
@@ -208,8 +208,15 @@ With this context preserved, a new case study becomes a focused update rather th
 | **New reminder evidence** | Add screenshot after scheduling the next date |
 | **Preserved build context** | Existing Claude Project and ongoing portfolio development workspace |
 | **Public portfolio** | [yasmeenazmat.com ↗](https://yasmeenazmat.com/) |
-| **Dedicated NEXA showcase** | [nexa-public.netlify.app ↗](https://nexa-public.netlify.app/) · deployment link provided; independent production testing pending |
+| **Dedicated NEXA showcase** | [nexa-public.netlify.app ↗](https://nexa-public.netlify.app/) · browser screenshots and interaction testing supplied by project owner |
+| **Public showcase testing report** | [NEXA_TESTING_REPORT.md](NEXA_TESTING_REPORT.md) · ten visually demonstrated core cases, responsive captures, network observations, Lighthouse 100/96/100/100 |
 | **Documentation repository** | [FlyRank AI Fluency portfolio docs ↗](https://github.com/yasmeenmh90-beep/flyrank-ai-fluency-portfolio-docs) |
+
+## 09 · Public Showcase Test Evidence
+
+The live public NEXA project now has a separate, evidence-bounded **[NEXA Public Showcase Testing Report](NEXA_TESTING_REPORT.md)**. The October 13, 2026 screenshots demonstrate **10/10 core fictional-demo interaction cases**, successful reset and avatar-state previews, FAQ expansion, responsive mobile views, and external destinations. Chrome DevTools' Fetch/XHR filter showed no matching private backend calls in the captured interactions. The owner reports completing navigation and keyboard-access checks.
+
+A displayed Lighthouse audit scored **100 Performance, 96 Accessibility, 100 Best Practices and 100 SEO**. These are results from one recorded audit, not proof of full accessibility compliance or production private-system security. The separate authenticated NEXA website and frontend-to-n8n integration remain planned.
 
 > **Submission scope:** This capstone establishes the **where**, **how**, **what next**, and **when** for my future portfolio work. It does not require me to expose NEXA's private system or claim unfinished functionality as a released product.
 
