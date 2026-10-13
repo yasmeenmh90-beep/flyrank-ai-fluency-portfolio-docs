@@ -1,8 +1,26 @@
-# From Projects to Proof: My FlyRank AI Fluency Retrospective
+<div align="center">
 
-**Yasmeen Azmat Ali**  
-**FlyRank AI Fluency Internship — Final Retrospective (FL-10)**  
-**Impact Project: AI/ML Engineering Portfolio**
+<sub><strong>FL-10  /  FIRST-PERSON RETROSPECTIVE</strong></sub>
+
+# ✦ From Projects to Proof
+
+### What I Built · What I Learned · What Comes Next
+
+A reflection on how the FlyRank AI Fluency experience changed my approach to building, validating, communicating, and publishing technical work.
+
+[![AI FLUENCY: RETROSPECTIVE](https://img.shields.io/badge/AI_FLUENCY-RETROSPECTIVE-8b5cf6?style=flat-square)](https://internship.flyrank.ai/) &nbsp; [![IMPACT PROJECT: ACCEPTED](https://img.shields.io/badge/IMPACT_PROJECT-ACCEPTED-22c55e?style=flat-square)](https://internship.flyrank.ai/) &nbsp; [![PORTFOLIO: LIVE](https://img.shields.io/badge/PORTFOLIO-LIVE-ec4899?style=flat-square)](https://yasmeenazmat.com/)
+
+**Yasmeen Azmat Ali** · 2026
+
+[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md)
+
+</div>
+
+---
+
+> **On this page:** [Starting point](#where-i-started) · [What I built](#what-i-built) · [Workflow changes](#what-changed-in-how-i-work) · [Lessons](#three-transferable-lessons) · [Next steps](#limitations-and-what-i-would-build-next)
+
+---
 
 ## Where I Started
 
@@ -70,3 +88,15 @@ My biggest achievement is not simply having a live portfolio. It is developing a
 
 **Live portfolio:** https://yasmeenazmat.com/  
 **Public documentation:** https://github.com/yasmeenmh90-beep/flyrank-ai-fluency-portfolio-docs
+
+---
+
+<div align="center">
+
+**Built with care · Evaluated with evidence · Presented with transparency**
+
+[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md)
+
+<sub>FlyRank General AI Fluency · Yasmeen Azmat Ali · 2026</sub>
+
+</div>
