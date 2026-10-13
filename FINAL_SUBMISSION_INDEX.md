@@ -283,7 +283,7 @@ The original PDF is available to the participant through FlyRank Documents. This
 - [ ] Confirm acceptance of the portal-generated hours record for FL-10
 - [ ] Confirm that the deployed custom domain satisfies any FlyRank-domain wording
 - [ ] Confirm the verified credential badge is also present in the website footer
-- [ ] Confirm private portfolio ZIP reproduces the live site and grant verified FlyRank reviewer access; static local setup instructions are documented
+- [ ] Arrange **independent reviewer reproduction** of the private portfolio ZIP and grant verified FlyRank reviewer access; static local setup instructions are documented, and the owner reports prior local testing
 - [ ] Obtain written FL-10 final review/sign-off, if required separately
 
 > **Status clarification:** AI Fluency qualification and the issued certificate are established by FlyRank records. Remaining checklist items concern **completeness of this public evidence package and any separate FL-10 reviewer confirmation**.
