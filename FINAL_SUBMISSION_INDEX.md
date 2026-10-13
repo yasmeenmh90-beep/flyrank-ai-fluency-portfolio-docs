@@ -42,7 +42,7 @@ This file is the **single entry point** for the FlyRank General AI Fluency final
 | **Frontend** | HTML · CSS · JavaScript |
 | **Source visibility** | Private implementation · Public documentation |
 | **AI Fluency track** | Qualified · 24 recorded assignments · Impact project accepted October 5, 2026 |
-| **Issued credential** | [Verify FlyRank AI Fluency ↗](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen) · Issued October 13, 2026 |
+| **Issued AI Fluency credential** | [Verify FlyRank D11 certificate ↗](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen) · ID **FR-D11-46948-FE5B2** · Issued October 13, 2026 |
 | **Current checkpoint** | FL-10 submission links provided · Separate final checkpoint sign-off not confirmed |
 
 ## 01 · Core Deliverables
@@ -171,6 +171,21 @@ The **General AI Fluency Track evidence transcript** provided by the participant
 | **FL-10 hours and review** | [Issued FlyRank progress-report verification](https://internship.flyrank.ai/verify?id=FR-D7-B109D-82922) · final checkpoint sign-off not separately confirmed |
 
 **Evidence access:** [FlyRank internship portal ↗](https://internship.flyrank.ai/) — transcript and “Open submitted evidence” controls may require reviewer authentication. To satisfy the literal FL-10 criterion of *every deliverable present and reachable from the index*, attach direct artifact links or an accessible evidence bundle as they become available.
+
+### FlyRank credential identity (issuer-verified)
+
+| Field | Value |
+|:---|:---|
+| **Credential ID** | **FR-D11-46948-FE5B2** |
+| **Document** | D11 · Certificate of Completion |
+| **Recipient** | Yasmeen Azmat |
+| **Track** | AI Fluency |
+| **Cohort shown by public verifier** | July 2026 |
+| **Internship dates shown by public verifier** | July 1 – October 10, 2026 |
+| **Issued** | October 13, 2026 |
+| **Verify** | [FlyRank public D11 verifier ↗](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen) |
+
+This **D11 certificate** and the **D7 progress report** are separate issued documents with different reference numbers and issuer-listed internship dates. Each is presented with its own original details; no dates have been changed.
 
 ### Official program evidence
 
