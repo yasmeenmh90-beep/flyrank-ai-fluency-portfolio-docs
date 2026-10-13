@@ -1,22 +1,29 @@
 <div align="center">
 
+<sub><strong>NEXA  /  SECOND CAPSTONE</strong></sub>
+
 # ✦ NEXA
-### From Personal AI Assistant to Portfolio Case Study
 
-**SEND THE LINK · LAUNCH, DEMO & STORY**  
-*FlyRank General AI Fluency · Second Capstone · 2026*
+### From Personal AI Assistant to Engineering Case Study
 
-[![Capstone](https://img.shields.io/badge/FLYRANK-SECOND_CAPSTONE-8b5cf6?style=for-the-badge)](https://aifluency.flyrank.ai/week-10.html#send-the-link)
-[![Project Phase](https://img.shields.io/badge/NEXA-IN_DEVELOPMENT-ec4899?style=for-the-badge)](#05--immediate-development-milestone)
-[![Next Step](https://img.shields.io/badge/NEXT_STEP-ARCHITECTURE_REVIEW-334155?style=for-the-badge)](#03--next-development-milestone)
+A staged technical roadmap linking the existing public prototype to a future authenticated, privately deployed personal operations assistant.
 
-**[✦ NEXA Public Showcase ↗](https://nexa-public.netlify.app/)** · **[🌐 View AI/ML Portfolio ↗](https://yasmeenazmat.com/)** · **[📘 Portfolio Documentation ↗](README.md)** · **[📂 Final Submission Index ↗](FINAL_SUBMISSION_INDEX.md)**
+[![PUBLIC SHOWCASE: LIVE](https://img.shields.io/badge/PUBLIC_SHOWCASE-LIVE-8b5cf6?style=flat-square)](https://nexa-public.netlify.app/) &nbsp; [![CORE DEMO: DOCUMENTED](https://img.shields.io/badge/CORE_DEMO-DOCUMENTED-22c55e?style=flat-square)](https://github.com/yasmeenmh90-beep/flyrank-ai-fluency-portfolio-docs/blob/main/NEXA_TESTING_REPORT.md) &nbsp; [![PRIVATE INTEGRATION: PLANNED](https://img.shields.io/badge/PRIVATE_INTEGRATION-PLANNED-64748b?style=flat-square)](https://nexa-public.netlify.app/)
+
+**Yasmeen Azmat Ali** · 2026
+
+[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md)
 
 </div>
 
 ---
 
-> **Project status:** NEXA is an active engineering project. Its public engineering showcase now has a participant-provided Netlify URL: **[nexa-public.netlify.app ↗](https://nexa-public.netlify.app/)**. Screenshots show the public case-study frontend and fictional sample demo; independent live-site testing remains pending. The owner-only private application, authenticated gateway, and real frontend-to-n8n integration are **not yet claimed as deployed**.
+> **On this page:** [Case study](#01--the-next-case-study) · [Completed work](#02--what-i-have-already-completed) · [Next steps](#03--what-i-will-add-next) · [Publication](#04--how-i-will-add-the-case-study) · [Testing](#09--public-showcase-test-evidence)
+
+---
+
+
+> **Project status:** NEXA is an active engineering project. Its public engineering showcase now has a participant-provided Netlify URL: **[nexa-public.netlify.app ↗](https://nexa-public.netlify.app/)**. Owner-supplied screenshots now document public demo interactions, responsive previews and a Lighthouse audit; these are not a full production security or accessibility certification. The owner-only private application, authenticated gateway, and real frontend-to-n8n integration are **not yet claimed as deployed**.
 
 ## At a Glance
 
@@ -26,7 +33,7 @@
 | **Track** | FlyRank General AI Fluency |
 | **Next featured project** | **NEXA — Personal AI Operations Agent** |
 | **Already completed** | React/TypeScript frontend v6 prototype and documented local testing; existing n8n specialist routing reported as verified separately |
-| **Public showcase** | [NEXA public Netlify URL ↗](https://nexa-public.netlify.app/) — deployment URL supplied; independent access/functionality check pending |
+| **Public showcase** | [NEXA public Netlify URL ↗](https://nexa-public.netlify.app/) — public demo tested with participant-supplied screenshots; see [testing report](NEXA_TESTING_REPORT.md) |
 | **Still planned** | Secure external integration, voice/authentication implementation, private deployment and addition to main portfolio |
 | **Project focus** | Agentic AI · Workflow Orchestration · Full-Stack Engineering · Privacy |
 | **Frontend under development** | React · TypeScript |
@@ -224,10 +231,10 @@ A displayed Lighthouse audit scored **100 Performance, 96 Accessibility, 100 Bes
 
 <div align="center">
 
-### Build with purpose. Verify the result. Share the evidence.
+**Built with care · Evaluated with evidence · Presented with transparency**
 
-**[✦ NEXA Showcase](https://nexa-public.netlify.app/)** · **[🌐 Portfolio](https://yasmeenazmat.com/)** · **[📘 Documentation](README.md)** · **[📂 Final Index](FINAL_SUBMISSION_INDEX.md)**
+[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md)
 
-<sub>FlyRank General AI Fluency · NEXA Next Case Study Plan · 2026</sub>
+<sub>FlyRank General AI Fluency · Yasmeen Azmat Ali · 2026</sub>
 
 </div>
