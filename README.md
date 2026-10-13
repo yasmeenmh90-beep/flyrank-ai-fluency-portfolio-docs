@@ -165,7 +165,7 @@ Check navigation, images, project cards, animations, CV download, and contact be
 
 | Category | Recorded Result |
 |---|---:|
-| 🖥️ Desktop Performance | **97/100** |
+| 🖥️ Desktop Performance | **98/100** |
 | 📱 Mobile Performance | **71–72/100** |
 | ♿ Accessibility | **100/100** |
 | 🛡️ Best Practices | **100/100** |
