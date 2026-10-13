@@ -12,7 +12,7 @@ One place for the deployed portfolio, demonstration, project records, credential
 
 **Yasmeen Azmat Ali** · 2026
 
-[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md)
+[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md) &nbsp;·&nbsp; [**n8n Workflow Atlas**](NEXA_WORKFLOWS.md)
 
 </div>
 
@@ -65,7 +65,11 @@ One place for the deployed portfolio, demonstration, project records, credential
 
 ### Continuing the portfolio · NEXA next case study
 
-The **second General AI Fluency capstone** documents the ongoing NEXA project and its repeatable publication plan: **[Read the NEXA next-case-study plan](NEXT_CASE_STUDY_PLAN.md)** · **[NEXA testing report](NEXA_TESTING_REPORT.md)** · **[Explore NEXA public showcase ↗](https://nexa-public.netlify.app/)**. Participant-supplied screenshots document core demo interactions, mobile layouts and a Lighthouse audit; independent private-system/security testing is outside this report. The showcase uses fictional demonstration data, while authenticated personal workflows remain separate and not publicly accessible.
+The **second General AI Fluency capstone** documents the ongoing NEXA project and its repeatable publication plan: **[Read the NEXA next-case-study plan](NEXT_CASE_STUDY_PLAN.md)** · **[NEXA testing report](NEXA_TESTING_REPORT.md)** · **[n8n Workflow Atlas](NEXA_WORKFLOWS.md)** · **[Explore NEXA public showcase ↗](https://nexa-public.netlify.app/)**. Participant-supplied screenshots document core demo interactions, mobile layouts and a Lighthouse audit; independent private-system/security testing is outside this report. The showcase uses fictional demonstration data, while authenticated personal workflows remain separate and not publicly accessible.
+
+### NEXA workflow documentation
+
+The [**NEXA n8n Workflow Atlas**](NEXA_WORKFLOWS.md) catalogues 18 workflow screenshots and explicitly separates published specialist definitions, unpublished capabilities, and test/placeholder flows. Image uploads and sanitized execution-level evidence are still outstanding. The public demo remains isolated from private workflows.
 
 ## 03 · Engineering Story
 
@@ -276,7 +280,7 @@ The original PDF is available to the participant through FlyRank Documents. This
 
 **Built with care · Evaluated with evidence · Presented with transparency**
 
-[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md)
+[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md) &nbsp;·&nbsp; [**n8n Workflow Atlas**](NEXA_WORKFLOWS.md)
 
 <sub>FlyRank General AI Fluency · Yasmeen Azmat Ali · 2026</sub>
 
