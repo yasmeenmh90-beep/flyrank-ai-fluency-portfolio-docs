@@ -307,7 +307,9 @@ I built and refined this portfolio with assistance from Claude AI, particularly 
 
 ### 🧩 NEXA n8n Architecture Evidence
 
-The separate [**NEXA Workflow Atlas**](NEXA_WORKFLOWS.md) documents 18 captured n8n workflow editor screens, with descriptions of the specialist routes, main orchestration, test probes, implementation states and verification limits. Screenshots will be embedded once reviewed PNG files are uploaded to `assets/n8n/`; a screenshot is not treated as proof of a successful runtime execution.
+The separate [**NEXA Workflow Atlas**](NEXA_WORKFLOWS.md) documents **18 n8n workflow designs** covering specialist intelligence, routing, operational controls, error handling and development probes. **17 of 18 screenshots have confirmed repository image paths**. The atlas includes direct image links and explains each workflow's purpose, editor publication state and evidence limitations. These editor screenshots are architectural evidence—not proof of successful runtime execution or of a live connection to the public NEXA demo.
+
+**Recently verified test/template screenshots:** [Sub-workflow Probe Caller](assets/n8n/SubWorkflowProbeCaller.png) · [Starter Sub-workflow](assets/n8n/StarterSubWorkflow.png). The **Sub-workflow Error Probe** screenshot remains awaiting confirmation of its exact repository filename.
 
 ### 🔬 Evidence and scope
 
