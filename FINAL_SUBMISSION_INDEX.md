@@ -25,6 +25,8 @@ One place for the deployed portfolio, demonstration, project records, credential
 
 > **Reviewer note:** The FlyRank portal shows the **General AI Fluency track qualified**, with **24 recorded assignments** and an **accepted impact project**. The D11 credential is issued. This public index gathers the final deliverables and issuer records; a separate written **FL-10 final-checkpoint sign-off has not been confirmed**.
 
+> **Latest portal screenshot — 14 October 2026:** General AI Fluency **25/26**, Machine Learning **10/10**. In the Week 8 assignment view, **Documentation and Demo Video (FL-09)** is explicitly **Not started**. **Show It / Tell the Story** and **The Plan to Keep Building** are marked **Submitted**. These portal figures supersede the older 24-assignment snapshot in this dossier; the accepted impact project and previously issued AI Fluency credential are separate records. **FL-09 still needs its own submission.**
+
 ### Navigate this submission
 
 [01 · Overview](#01--project-overview) · [02 · Final deliverables](#02--final-deliverables) · [03 · Engineering story](#03--engineering-story) · [04 · Weekly evidence](#04--weekly-assignment-transcript) · [05 · Official credentials](#05--flyrank-credential-and-verification) · [06 · Hours and progress report](#06--recorded-hours-and-progress-report) · [07 · Transparency](#07--evaluation-transparency-and-limitations) · [08 · Review checklist](#08--final-review-checklist)
@@ -68,6 +70,16 @@ One place for the deployed portfolio, demonstration, project records, credential
 The **second General AI Fluency capstone** documents the ongoing NEXA project and its repeatable publication plan: **[Read the NEXA next-case-study plan](NEXT_CASE_STUDY_PLAN.md)** · **[NEXA testing report](NEXA_TESTING_REPORT.md)** · **[n8n Workflow Atlas](NEXA_WORKFLOWS.md)** · **[Explore NEXA public showcase ↗](https://nexa-public.netlify.app/)**. Participant-supplied screenshots document core demo interactions, mobile layouts and a Lighthouse audit; independent private-system/security testing is outside this report. The showcase uses fictional demonstration data, while authenticated personal workflows remain separate and not publicly accessible.
 
 **Next-case reminder evidence (14 October 2026):** Apple Reminders now contains “NEXA — Complete & Publish Portfolio Case Study,” scheduled for **21 October 2026**. Its notes cover the Week 2 three-beat structure, n8n workflow screenshots, validation, and publishing on the main portfolio. A screenshot was supplied by the participant and should be attached to the FlyRank assignment; the image is not hosted in this repository. macOS reminder notifications were shown disabled, so enabling notifications is a remaining housekeeping step. See the [accountability section of the next-case plan](NEXT_CASE_STUDY_PLAN.md#06--reminder--accountability).
+
+### Separate project repositories
+
+| Scope | Repository | Purpose |
+|:---|:---|:---|
+| **AI/ML portfolio source** | [Private portfolio-source repository](https://github.com/yasmeenmh90-beep/ai-ml-portfolio-source) | Source ZIP and static-site reproduction instructions; access requires a verified collaborator invitation |
+| **NEXA engineering case study** | [Public NEXA repository](https://github.com/yasmeenmh90-beep/nexa-ai-operations-assistant) | NEXA-specific overview, architecture, testing, workflow atlas and roadmap |
+| **FlyRank submission dossier** | [This documentation repository](https://github.com/yasmeenmh90-beep/flyrank-ai-fluency-portfolio-docs) | Track evidence index, portfolio retrospective and original workflow screenshot archive |
+
+The [NEXA testing report](https://github.com/yasmeenmh90-beep/nexa-ai-operations-assistant/blob/main/NEXA_TESTING_REPORT.md) and [NEXA workflow atlas](https://github.com/yasmeenmh90-beep/nexa-ai-operations-assistant/blob/main/NEXA_WORKFLOWS.md) now have dedicated copies in NEXA's own repository. The original image archive remains here to preserve existing submission links. The portfolio demo video is **not** a NEXA video.
 
 ### NEXA workflow documentation
 
@@ -271,7 +283,7 @@ The original PDF is available to the participant through FlyRank Documents. This
 - [ ] Confirm acceptance of the portal-generated hours record for FL-10
 - [ ] Confirm that the deployed custom domain satisfies any FlyRank-domain wording
 - [ ] Confirm the verified credential badge is also present in the website footer
-- [ ] Resolve the public README's independent-reproduction criterion
+- [ ] Confirm private portfolio ZIP reproduces the live site and grant verified FlyRank reviewer access; static local setup instructions are documented
 - [ ] Obtain written FL-10 final review/sign-off, if required separately
 
 > **Status clarification:** AI Fluency qualification and the issued certificate are established by FlyRank records. Remaining checklist items concern **completeness of this public evidence package and any separate FL-10 reviewer confirmation**.
