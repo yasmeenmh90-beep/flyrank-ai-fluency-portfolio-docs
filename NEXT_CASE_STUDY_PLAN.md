@@ -74,7 +74,35 @@ NEXA is an **active project, not just a proposed idea**. The current evidence co
 
 ### Existing n8n agent — separate from the frontend
 
-The current NEXA development record describes an existing n8n-based assistant, with **seven read-only specialist routes reported as verified through n8n Open chat**, and metadata-only audit logging. These workflow results were reported as part of the ongoing NEXA development; they have **not** been independently reproduced by this public portfolio document.
+The current NEXA development record describes an existing n8n-based assistant, with **seven read-only specialist routes reported as verified through n8n Open chat**, and metadata-only audit logging. The screenshots supplied on October 13, 2026 provide a more detailed visual inventory of the configured workflows. These workflow results were reported as part of the ongoing NEXA development; they have **not** been independently reproduced by this public portfolio document.
+
+### n8n workflow evidence — October 13, 2026 screenshots
+
+The latest screenshots make the existing backend architecture more concrete. They show visual workflow graphs and, in some cases, the n8n interface's **Published** indicator. A screenshot of a configured workflow is **not**, by itself, proof that every branch executed successfully, that its credentials work, or that its website integration is secure.
+
+| Workflow shown | Visible architecture / scope | Publication evidence in screenshot |
+|:---|:---|:---|
+| **NEXA — Agent** | Central request routing, specialist branches, response preparation and audit path | **Publish** control shown; current publication state should be confirmed separately |
+| **Gmail Specialist** | Gmail intent routing, search/fetch and answer formatting, with unavailable-data responses | **Published** |
+| **Operational Intelligence** | Tracker read, project checks, analysis and fallback cases | **Published** |
+| **GitHub Intelligence** | Repository selection, commits, open issues, pull requests and analysis | **Published** |
+| **Portfolio Intelligence** | Portfolio/repository retrieval, context building and link validation | **Published** |
+| **Career Intelligence** | Tracker, repositories, README, live portfolio and CV evidence gathering | **Published** |
+| **Calendar Intelligence** | Calendar source reads, tracker context and availability handling | **Published** |
+| **Daily Intelligence** | Conditional daily evidence gathering, summaries and response formatting | **Publish** control; publication not established by screenshot |
+| **Memory Intelligence** | Read/write and confirmation branches designed in workflow | **Publish** control; must remain disconnected/unpublished unless separately authorized |
+| **Action Intelligence** | Action preparation, human confirmation and execution branches designed | **Publish** control; must remain disconnected/unpublished |
+| **Proactive Intelligence** | Monitoring, preference and alert branches designed | **Publish** control; must remain disconnected/unpublished |
+| **Control Center** | Request validation, internal record reads and dashboard rendering design | **Publish** control; must remain disconnected/unpublished |
+| **Error Logger** | Workflow error trigger, sanitization/categorization and health-event recording | **Published** indicator visible |
+| **Error probes (test workflows)** | Deliberate failure and error-capture test configurations | Test-only; one archived probe shown |
+| **GitHub Tracker Sync** | Six-hour trigger, repository/tracker comparison, record building and re-read check | **Publish** control; scheduled execution not established |
+
+These images demonstrate **implemented workflow structure** across routing, Gmail, Calendar, GitHub, portfolio, career, operations, daily briefings, error logging and further designed-but-disabled capabilities. Their publication indicators reflect **only the individual workflows shown**, not automatic permission to expose them through a website.
+
+**Testing claim boundary:** The project record previously reports seven read-only specialist routes verified through the built-in Open chat interface. The new screenshots give structural and some publication-state evidence, but they do **not** provide execution logs for each route. Live routing, safe data access and failure paths should be supported by separately sanitized test results before being described as end-to-end verified in the public portfolio.
+
+**Screenshot handling:** These user-supplied n8n screenshots are available as evidence for the FlyRank submission. They have **not** been uploaded to this public GitHub repository. Before publishing any image, crop/redact workflow IDs, account details, sensitive node parameters, internal URLs, tokens and any personal information.
 
 **Critical distinction:** The locally tested React interface is **not yet connected to the existing n8n specialist backend**. The private website, authenticated server-side gateway and public-safe demonstration still require implementation and verification. Memory, Action, Proactive, Control Center and legacy personal-agent workflows are intended to remain unpublished and disconnected.
 
