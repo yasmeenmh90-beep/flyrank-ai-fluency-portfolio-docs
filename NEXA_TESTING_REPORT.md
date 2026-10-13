@@ -1,18 +1,27 @@
 <div align="center">
 
-# ✦ NEXA · Public Showcase Testing Report
+<sub><strong>NEXA  /  PUBLIC SHOWCASE QUALITY ASSURANCE</strong></sub>
 
-**FLYRANK GENERAL AI FLUENCY · SECOND CAPSTONE**
+# ✦ NEXA Testing Report
 
-[![Live Showcase](https://img.shields.io/badge/SHOWCASE-NETLIFY-8b5cf6?style=for-the-badge)](https://nexa-public.netlify.app/)
-![Testing](https://img.shields.io/badge/CORE_DEMO-10%2F10_VISUALLY_DEMONSTRATED-16a34a?style=for-the-badge)
-![Lighthouse Accessibility](https://img.shields.io/badge/ACCESSIBILITY-96%2F100-16a34a?style=for-the-badge)
+### Functional Demonstration · Responsive Review · Lighthouse
 
-**[Explore NEXA ↗](https://nexa-public.netlify.app/)** · **[Second Capstone Plan](NEXT_CASE_STUDY_PLAN.md)** · **[Final Submission Index](FINAL_SUBMISSION_INDEX.md)**
+Documented browser observations and user-supplied screenshots, with explicit distinctions between verified sample UI behavior and untested private integrations.
+
+[![CORE DEMO: 10 OF 10 OBSERVED](https://img.shields.io/badge/CORE_DEMO-10_OF_10_OBSERVED-22c55e?style=flat-square)](https://nexa-public.netlify.app/) &nbsp; [![LIGHTHOUSE: 100 PERF](https://img.shields.io/badge/LIGHTHOUSE-100_PERF-8b5cf6?style=flat-square)](https://nexa-public.netlify.app/) &nbsp; [![ACCESSIBILITY: 96 OF 100](https://img.shields.io/badge/ACCESSIBILITY-96_OF_100-8b5cf6?style=flat-square)](https://nexa-public.netlify.app/)
+
+**Yasmeen Azmat Ali** · 2026
+
+[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md)
 
 </div>
 
 ---
+
+> **On this page:** [Scope](#01--test-scope) · [Lighthouse](#02--lighthouse-results) · [Demo cases](#03--public-demo-functional-results) · [Network observations](#04--network-and-privacy-observation) · [Limits](#06--outcome-and-boundaries)
+
+---
+
 
 > **Evidence standard.** This report records screenshots supplied by the project owner and the owner's report that all remaining navigation and accessibility checks passed on **October 13, 2026**. The Lighthouse scores are directly visible in a supplied Chrome screenshot. These observations **do not represent an independent penetration test or comprehensive accessibility certification**. Screenshots are retained in the submission conversation and are not embedded in this public Markdown repository.
 
@@ -104,6 +113,10 @@ The public NEXA showcase has a working, visually demonstrated **fictional sample
 
 <div align="center">
 
-**Demonstrate what works · Disclose what is simulated · Record what remains**
+**Built with care · Evaluated with evidence · Presented with transparency**
+
+[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md)
+
+<sub>FlyRank General AI Fluency · Yasmeen Azmat Ali · 2026</sub>
 
 </div>
