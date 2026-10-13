@@ -6,7 +6,7 @@
 
 ### Specialist intelligence · routing · operational controls · engineering evidence
 
-[![PUBLIC DEMO](https://img.shields.io/badge/PUBLIC_DEMO-LIVE-8b5cf6?style=flat-square)](https://nexa-public.netlify.app/) ![EVIDENCE](https://img.shields.io/badge/EVIDENCE-18_WORKFLOW_SCREENSHOTS-64748b?style=flat-square) ![PRIVATE INTEGRATIONS](https://img.shields.io/badge/PRIVATE_INTEGRATION-NOT_PUBLIC-f59e0b?style=flat-square)
+[![PUBLIC DEMO](https://img.shields.io/badge/PUBLIC_DEMO-LIVE-8b5cf6?style=flat-square)](https://nexa-public.netlify.app/) ![EVIDENCE](https://img.shields.io/badge/EVIDENCE-15_UPLOADED_OF_18-64748b?style=flat-square) ![PRIVATE INTEGRATIONS](https://img.shields.io/badge/PRIVATE_INTEGRATION-NOT_PUBLIC-f59e0b?style=flat-square)
 
 **Yasmeen Azmat Ali** · October 2026
 
@@ -69,7 +69,7 @@ flowchart LR
 
 ## 04 · Individual workflow walkthroughs
 
-> **Screenshot upload status:** Documentation sections are ready. Upload the corresponding redacted PNGs into `assets/n8n/`, then replace each **Screenshot pending upload** label with a relative image embedding. No images are claimed as uploaded here.
+> **Screenshot status:** 15 PNG images are present in [`assets/n8n/`](assets/n8n/). Three test/template screenshots remain to be uploaded. Images are editor screenshots, not execution-level validation. Review each file for personal or secret information.
 
 <a id="workflow-01"></a>
 
@@ -82,7 +82,9 @@ flowchart LR
 - Classifies Gmail questions into routes such as inbox summaries, unread mail, important mail, sender searches and follow-ups; fetches Gmail messages and prepares an AI-formatted answer.
 - **Evidence boundary:** Published workflow definition; individual request success not proven by the diagram.
 
-**Visual evidence:** Screenshot 01 — pending upload to `assets/n8n/`.
+**Workflow screenshot 01** · [Full-size image](assets/n8n/GmailSpecialist.png)
+
+![GmailSpecialist n8n workflow architecture](assets/n8n/GmailSpecialist.png)
 
 <a id="workflow-02"></a>
 
@@ -95,7 +97,9 @@ flowchart LR
 - Parses operational questions, reads the NEXA tracker in Google Sheets, distinguishes missing or empty records from valid records, and prepares an operational analysis.
 - **Evidence boundary:** Execution history and data-access tests not supplied.
 
-**Visual evidence:** Screenshot 02 — pending upload to `assets/n8n/`.
+**Workflow screenshot 02** · [Full-size image](assets/n8n/OperationalIntelligence.png)
+
+![OperationalIntelligence n8n workflow architecture](assets/n8n/OperationalIntelligence.png)
 
 <a id="workflow-03"></a>
 
@@ -108,7 +112,9 @@ flowchart LR
 - Resolves a repository target, retrieves repository activity, recent commits, open issues and pull requests, and summarizes developer context with fallback branches.
 - **Evidence boundary:** Live response accuracy requires execution evidence.
 
-**Visual evidence:** Screenshot 03 — pending upload to `assets/n8n/`.
+**Workflow screenshot 03** · [Full-size image](assets/n8n/GithubIntelligence.png)
+
+![GithubIntelligence n8n workflow architecture](assets/n8n/GithubIntelligence.png)
 
 <a id="workflow-04"></a>
 
@@ -121,7 +127,9 @@ flowchart LR
 - Collects portfolio repository files and live project links, verifies reachable references, and assembles information for a portfolio answer.
 - **Evidence boundary:** The workflow diagram does not establish that all live links were successfully checked.
 
-**Visual evidence:** Screenshot 04 — pending upload to `assets/n8n/`.
+**Workflow screenshot 04** · [Full-size image](assets/n8n/PortfolioIntelligence.png)
+
+![PortfolioIntelligence n8n workflow architecture](assets/n8n/PortfolioIntelligence.png)
 
 <a id="workflow-05"></a>
 
@@ -134,7 +142,9 @@ flowchart LR
 - Combines NEXA tracker entries, GitHub repositories, portfolio READMEs and CV text to assemble career evidence and tailored analysis.
 - **Evidence boundary:** Career recommendations and source freshness have not been independently validated.
 
-**Visual evidence:** Screenshot 05 — pending upload to `assets/n8n/`.
+**Workflow screenshot 05** · [Full-size image](assets/n8n/CareerIntelligence.png)
+
+![CareerIntelligence n8n workflow architecture](assets/n8n/CareerIntelligence.png)
 
 <a id="workflow-06"></a>
 
@@ -147,7 +157,9 @@ flowchart LR
 - Resolves date-related questions, reads personal/FlyRank/UAE-holiday calendars and the NEXA tracker, then produces an availability or scheduling summary.
 - **Evidence boundary:** Calendar permissions, successful queries and privacy controls need execution-level review.
 
-**Visual evidence:** Screenshot 06 — pending upload to `assets/n8n/`.
+**Workflow screenshot 06** · [Full-size image](assets/n8n/CalendarIntelligence.png)
+
+![CalendarIntelligence n8n workflow architecture](assets/n8n/CalendarIntelligence.png)
 
 <a id="workflow-07"></a>
 
@@ -160,7 +172,9 @@ flowchart LR
 - Plans a daily summary across calendar events, Gmail, tracker items, GitHub activity, career information and portfolio sources, with missing-source fallbacks.
 - **Evidence boundary:** The screenshot shows Publish rather than Published; not a claim of deployment.
 
-**Visual evidence:** Screenshot 07 — pending upload to `assets/n8n/`.
+**Workflow screenshot 07** · [Full-size image](assets/n8n/DailyIntelligence.png)
+
+![DailyIntelligence n8n workflow architecture](assets/n8n/DailyIntelligence.png)
 
 <a id="workflow-08"></a>
 
@@ -173,7 +187,9 @@ flowchart LR
 - Reads stored memories and pending confirmations; interprets requests to read, modify, delete or confirm stored information; includes a credential-refusal path.
 - **Evidence boundary:** Sensitive functionality; do not publish memory content, storage IDs or credentials.
 
-**Visual evidence:** Screenshot 08 — pending upload to `assets/n8n/`.
+**Workflow screenshot 08** · [Full-size image](assets/n8n/MemoryIntelligence.png)
+
+![MemoryIntelligence n8n workflow architecture](assets/n8n/MemoryIntelligence.png)
 
 <a id="workflow-09"></a>
 
@@ -186,7 +202,9 @@ flowchart LR
 - Central assistant receives a request, classifies it, routes it to specialist workflows, handles missing results and formatting, and records audit metadata.
 - **Evidence boundary:** The private assistant is not accessible from the public NEXA sample demo.
 
-**Visual evidence:** Screenshot 09 — pending upload to `assets/n8n/`.
+**Workflow screenshot 09** · [Full-size image](assets/n8n/NEXA-Agent.png)
+
+![NEXA-Agent n8n workflow architecture](assets/n8n/NEXA-Agent.png)
 
 <a id="workflow-10"></a>
 
@@ -199,7 +217,9 @@ flowchart LR
 - Coordinates action requests with confirmation checks, calendar context, approval branches, action execution, and an audit trail.
 - **Evidence boundary:** Write actions require separate authorization and verified human approval; screenshot does not prove these guarantees.
 
-**Visual evidence:** Screenshot 10 — pending upload to `assets/n8n/`.
+**Workflow screenshot 10** · [Full-size image](assets/n8n/ActionIntelligence.png)
+
+![ActionIntelligence n8n workflow architecture](assets/n8n/ActionIntelligence.png)
 
 <a id="workflow-11"></a>
 
@@ -212,7 +232,9 @@ flowchart LR
 - Checks settings, analyzes recent activity across connected services, considers whether a proactive update is warranted, and prepares a response.
 - **Evidence boundary:** No evidence of live proactive scheduling or delivery in screenshot.
 
-**Visual evidence:** Screenshot 11 — pending upload to `assets/n8n/`.
+**Workflow screenshot 11** · [Full-size image](assets/n8n/ProactiveIntelligence.png)
+
+![ProactiveIntelligence n8n workflow architecture](assets/n8n/ProactiveIntelligence.png)
 
 <a id="workflow-12"></a>
 
@@ -225,7 +247,9 @@ flowchart LR
 - Validates an incoming dashboard request, gathers operational/health/audit records, renders a dashboard payload and sends the response.
 - **Evidence boundary:** Authentication and dashboard access restrictions have not been independently tested.
 
-**Visual evidence:** Screenshot 12 — pending upload to `assets/n8n/`.
+**Workflow screenshot 12** · [Full-size image](assets/n8n/ControlCenter.png)
+
+![ControlCenter n8n workflow architecture](assets/n8n/ControlCenter.png)
 
 <a id="workflow-13"></a>
 
@@ -238,7 +262,9 @@ flowchart LR
 - Captures workflow errors, sanitizes/categorizes event data, checks whether the event should be recorded, and writes a health event.
 - **Evidence boundary:** Shows error-handling design; not proof of every integration failure being caught.
 
-**Visual evidence:** Screenshot 13 — pending upload to `assets/n8n/`.
+**Workflow screenshot 13** · [Full-size image](assets/n8n/ErrorLogger.png)
+
+![ErrorLogger n8n workflow architecture](assets/n8n/ErrorLogger.png)
 
 <a id="workflow-14"></a>
 
@@ -251,7 +277,7 @@ flowchart LR
 - Small deliberate-failure sub-workflow used to test error propagation from a called workflow.
 - **Evidence boundary:** A workflow diagram is a test setup, not evidence of a passed test.
 
-**Visual evidence:** Screenshot 14 — pending upload to `assets/n8n/`.
+**Workflow screenshot 14:** Not uploaded yet; add a sanitized image to `assets/n8n/` when available.
 
 <a id="workflow-15"></a>
 
@@ -264,7 +290,9 @@ flowchart LR
 - Archived webhook-triggered probe intended to generate a deliberate failure and inspect error capture.
 - **Evidence boundary:** Archived; do not imply it is currently running.
 
-**Visual evidence:** Screenshot 15 — pending upload to `assets/n8n/`.
+**Workflow screenshot 15** · [Full-size image](assets/n8n/ErrorCaptureProbe.png)
+
+![ErrorCaptureProbe n8n workflow architecture](assets/n8n/ErrorCaptureProbe.png)
 
 <a id="workflow-16"></a>
 
@@ -277,7 +305,7 @@ flowchart LR
 - Webhook-driven test caller invokes a failing sub-workflow to exercise error propagation.
 - **Evidence boundary:** Requires a recorded test execution to claim pass/fail.
 
-**Visual evidence:** Screenshot 16 — pending upload to `assets/n8n/`.
+**Workflow screenshot 16:** Not uploaded yet; add a sanitized image to `assets/n8n/` when available.
 
 <a id="workflow-17"></a>
 
@@ -290,7 +318,9 @@ flowchart LR
 - Six-hour scheduling design lists repositories, reads the tracker, normalizes and deduplicates, fetches README, classifies a new repository and writes/verifies a tracker entry.
 - **Evidence boundary:** Schedule and persistence are design intent until published and observed in runs.
 
-**Visual evidence:** Screenshot 17 — pending upload to `assets/n8n/`.
+**Workflow screenshot 17** · [Full-size image](assets/n8n/GithubTrackerSync.png)
+
+![GithubTrackerSync n8n workflow architecture](assets/n8n/GithubTrackerSync.png)
 
 <a id="workflow-18"></a>
 
@@ -303,7 +333,7 @@ flowchart LR
 - Generic 'When Executed by Another Workflow' template with a replace-me node, included as development context.
 - **Evidence boundary:** Not a NEXA production capability; optionally omit from the public gallery.
 
-**Visual evidence:** Screenshot 18 — pending upload to `assets/n8n/`.
+**Workflow screenshot 18:** Not uploaded yet; add a sanitized image to `assets/n8n/` when available.
 
 
 ## 05 · Public-versus-private boundaries
@@ -329,7 +359,8 @@ flowchart LR
 - [x] Document the NEXA public-demo testing in [NEXA_TESTING_REPORT.md](NEXA_TESTING_REPORT.md)
 - [x] Capture screenshots of 18 n8n workflow definitions, including test and placeholder workflows
 - [x] Prepare architecture descriptions, workflow inventory and truthful status labels
-- [ ] Upload reviewed/redacted screenshots to `assets/n8n/` and embed images into this atlas
+- [x] Upload and embed **15** n8n screenshots
+- [ ] Upload 3 remaining test/template screenshots and embed them
 - [ ] Record sanitized execution-level evidence for each intended integration
 - [ ] Design and implement an authenticated, authorized owner-only API boundary
 - [ ] Verify action approvals, storage/privacy protections, and operational monitoring
