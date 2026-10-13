@@ -15,7 +15,7 @@
 
 A professional, evidence-first portfolio bringing together my AI/ML projects, technical decisions, live demonstrations, engineering experience, and professional achievements.
 
-**[Explore Portfolio ↗](https://yasmeenazmat.com)** · **[Featured Projects ↗](https://yasmeenazmat.com/#projects)** · **[Contact ↗](https://yasmeenazmat.com/#contact)**
+**[Explore Portfolio ↗](https://yasmeenazmat.com)** · **[Final FL-10 Submission Index ↗](FINAL_SUBMISSION_INDEX.md)** · **[Verified FlyRank Credential ↗](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen)** · **[Contact ↗](https://yasmeenazmat.com/#contact)**
 
 *FlyRank General AI Fluency · Impact Project approved October 5, 2026*
 
@@ -35,7 +35,8 @@ A professional, evidence-first portfolio bringing together my AI/ML projects, te
 | **Deployment** | [yasmeenazmat.com](https://yasmeenazmat.com) |
 | **Source Code** | Private implementation |
 | **Documentation** | Public |
-| **FlyRank Status** | Impact Project Approved |
+| **FlyRank Status** | AI Fluency qualified; impact project accepted October 5, 2026 |
+| **Issued Credential** | [FlyRank AI Fluency verified record](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen) · October 13, 2026 |
 
 ---
 
@@ -257,7 +258,7 @@ Documentation is public for reviewers, while implementation source files remain 
 - Final-version PageSpeed and complete end-to-end verification remain pending.
 - Building in Public can be expanded with deeper technical case studies.
 - NEXA remains in development and is not presented as completed work.
-- An official FlyRank graduate badge will only be displayed after issuance.
+- FlyRank AI Fluency verification is issued, and the badge is shown in the portfolio Certifications section. Footer placement should be checked separately against Week 7 assignment wording.
 
 ---
 
@@ -304,11 +305,13 @@ I built and refined this portfolio with assistance from Claude AI, particularly 
 
 - [ ] Re-run PageSpeed on the final deployed website
 - [ ] Document remaining functional and accessibility checks
-- [ ] Record the narrated FlyRank demonstration
-- [ ] Submit documentation and demo to FlyRank
+- [x] Record the narrated FlyRank demonstration
+- [x] Submit documentation and demo links to FlyRank (FL-09 evidence recorded; review outcome not separately documented)
 - [ ] Add more technical case studies and live demonstrations
 - [ ] Complete and validate NEXA
-- [ ] Add the official FlyRank graduate badge when issued
+- [x] Add the issued FlyRank AI Fluency credential badge to the Certifications section
+- [ ] Confirm credential badge appears in the footer as required by Week 7
+- [ ] Confirm FL-10 review/sign-off and hours-log completion
 
 ---
 
