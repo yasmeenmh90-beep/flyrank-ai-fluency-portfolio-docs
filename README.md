@@ -275,20 +275,22 @@ The evaluation section separates measured evidence, static verification, user-re
 
 ## 🎬 Live Demonstration
 
-**Format:** Narrated portfolio walkthrough  
-**Target Duration:** 3–5 minutes  
-**Status:** Final recording pending
+**Format:** Narrated live walkthrough of the deployed site (no slides)
+**Duration:** 3:07
+**Status:** ✅ Recorded
 
-| Segment | What I'll Demonstrate |
+| Time | What the demo shows |
 |---|---|
-| 0:00–0:35 | Portfolio introduction and purpose |
-| 0:35–1:40 | Featured Projects and interactive filters |
-| 1:40–2:30 | Project evidence and design decisions |
-| 2:30–3:15 | Skills, certifications, CV, and contact |
-| 3:15–4:10 | FlyRank Capstone and known limitation |
-| 4:10–4:40 | AI assistance, verification, and next steps |
+| 0:00–0:40 | Portfolio introduction and purpose: hero section and the three main actions (View My Projects, Get in Touch, Book a Meeting) |
+| 0:40–1:24 | Featured Projects and interactive filters (Agentic AI, Apps & Backend, All) — **design decision: evidence over claims** |
+| 1:24–1:40 | Project evidence: InvoiceGuard live demo, its demo video on YouTube, and its GitHub repository |
+| 1:40–1:56 | More projects, education, experience, skills, and the IBM RAG and Agentic AI certificate (verified on Coursera) |
+| 1:56–2:24 | Live contact-form test: native validation, honeypot spam field, duplicate-submit guard, and the submission arriving in Netlify Forms |
+| 2:24–2:40 | FlyRank Capstone section and this README: system architecture and next improvements |
+| 2:40–2:52 | **Known limitation:** PageSpeed Insights (Oct 13, 2026): Desktop 98, Mobile 71 |
+| 2:52–3:07 | AI assistance, what I verified myself, and close |
 
-**Demo video:** Link will be added after recording.
+**Demo video:** [Watch the demo](https://www.youtube.com/watch?v=45gVlp1G5Wk)
 
 ---
 
