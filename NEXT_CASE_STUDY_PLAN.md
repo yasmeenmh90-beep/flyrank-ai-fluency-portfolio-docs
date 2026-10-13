@@ -7,7 +7,7 @@
 *FlyRank General AI Fluency · Second Capstone · 2026*
 
 [![Capstone](https://img.shields.io/badge/FLYRANK-SECOND_CAPSTONE-8b5cf6?style=for-the-badge)](https://aifluency.flyrank.ai/week-10.html#send-the-link)
-[![Project Phase](https://img.shields.io/badge/NEXA-IN_DEVELOPMENT-ec4899?style=for-the-badge)](#03--next-development-milestone)
+[![Project Phase](https://img.shields.io/badge/NEXA-IN_DEVELOPMENT-ec4899?style=for-the-badge)](#05--immediate-development-milestone)
 [![Next Step](https://img.shields.io/badge/NEXT_STEP-ARCHITECTURE_REVIEW-334155?style=for-the-badge)](#03--next-development-milestone)
 
 **[🌐 View AI/ML Portfolio ↗](https://yasmeenazmat.com/)** · **[📘 Portfolio Documentation ↗](README.md)** · **[📂 Final Submission Index ↗](FINAL_SUBMISSION_INDEX.md)**
