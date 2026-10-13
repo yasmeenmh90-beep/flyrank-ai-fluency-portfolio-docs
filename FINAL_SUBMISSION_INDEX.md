@@ -14,7 +14,7 @@
 
 **Yasmeen Azmat Ali**
 
-*Final package in preparation · Human review and sign-off pending*
+*AI Fluency track qualified · Impact project accepted October 5, 2026 · FL-10 final review not confirmed*
 
 **[View Portfolio ↗](https://yasmeenazmat.com/)** · **[Read Documentation ↗](README.md)** · **[Read Retrospective ↗](RETROSPECTIVE.md)** · **[Watch Live Demo ↗](https://www.youtube.com/watch?v=45gVlp1G5Wk)**
 
@@ -28,7 +28,7 @@
 
 This file is the **single entry point** for the FlyRank General AI Fluency final checkpoint (FL-10). It connects the deployed site, supporting documentation, narrated demonstration, reflection, weekly work, and pending review requirements.
 
-> **Review status:** Core capstone materials are public. Earlier weekly submissions exist in the FlyRank internship portal, but direct evidence links still need to be collected here. Hours-log verification and final human sign-off remain pending.
+> **Review status:** Core capstone materials are public. Earlier weekly submissions exist in the FlyRank internship portal, but direct evidence links still need to be collected here. The FlyRank dashboard reports AI Fluency qualified (24 recorded assignments and accepted impact capstone). The Documents portal shows 151 **estimated** hours and an issued credential; FL-10-specific sign-off and completion of the hours-log requirement have not been independently confirmed.
 
 ## Submission at a Glance
 
@@ -41,7 +41,9 @@ This file is the **single entry point** for the FlyRank General AI Fluency final
 | **Hosting** | Netlify · Custom domain · HTTPS |
 | **Frontend** | HTML · CSS · JavaScript |
 | **Source visibility** | Private implementation · Public documentation |
-| **Current checkpoint** | FL-10 · Final review pending |
+| **AI Fluency track** | Qualified · 24 recorded assignments · Impact project accepted October 5, 2026 |
+| **Issued credential** | [Verify FlyRank AI Fluency ↗](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen) · Issued October 13, 2026 |
+| **Current checkpoint** | FL-10 submission links provided · Separate final checkpoint sign-off not confirmed |
 
 ## 01 · Core Deliverables
 
@@ -54,13 +56,13 @@ This file is the **single entry point** for the FlyRank General AI Fluency final
 | **AI-assistance transparency** | [README — AI assistance](README.md#-ai-assistance--human-verification) | ✅ Documented |
 | **Quality and performance evidence** | [README — Performance & Quality](README.md#-performance--quality) | 🟡 Historical measurements; final retest pending |
 | **Build-in-public story** | [Read the LinkedIn launch story ↗](https://www.linkedin.com/feed/update/urn:li:activity:7515693667693666306/) | ✅ Published |
-| **Verified hours log** | Add reviewer-accessible evidence or portal confirmation | ⏳ Pending |
+| **Hours log** | FlyRank Documents displays **151 estimated hours**; verify completion requirements and any hour breakdown in the portal | 🟡 Estimated figure recorded; final verification pending |
 | **Final human sign-off** | Add final review/submission reference | ⏳ Pending |
-| **Graduate credential** | Add official badge and verification link after issuance | ⏳ Pending issuance |
+| **FlyRank AI Fluency credential** | [Verify issued credential ↗](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen) · Badge visible in the portfolio's Certifications section | ✅ Issued October 13, 2026 |
 
 ## 02 · Track-Wide Evidence
 
-The work below was submitted in the [FlyRank internship portal ↗](https://internship.flyrank.ai/). **A submitted assignment is not automatically a public, reviewer-accessible evidence link.** Direct artifact URLs or accessible evidence bundles are still needed to make this index complete.
+The work below was submitted in the [FlyRank internship portal ↗](https://internship.flyrank.ai/). **FlyRank lists 24 AI Fluency assignments with recorded evidence, and the accepted impact project in its track evidence transcript.** A submitted assignment is not automatically a public, reviewer-accessible evidence link. Direct artifact URLs or accessible evidence bundles are still needed to make this index complete.
 
 <details>
 <summary><strong>Weeks 1–3 · Define, Frame & Design</strong></summary>
@@ -103,6 +105,14 @@ The work below was submitted in the [FlyRank internship portal ↗](https://inte
 
 </details>
 
+### Official program evidence
+
+- **AI Fluency:** FlyRank Completion dashboard shows **Qualified**; **24/5** recorded assignments and **Accepted** capstone (October 5, 2026). Its *Track evidence transcript* includes submitted assignment timestamps and available “Open submitted evidence” links for reviewers with portal access.
+- **Learning/work hours:** FlyRank Documents displays **151 estimated hours**, derived from tracked activities. These are **not represented as individually verified timesheet hours** here.
+- **Credential:** [FlyRank AI Fluency verified record ↗](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen), issued October 13, 2026. The linked badge is shown in the site's Certifications section; **footer placement remains to be checked** against the literal Week 7 wording.
+- **Submission links already supplied:** [YouTube demo](https://www.youtube.com/watch?v=45gVlp1G5Wk) · [documentation repository](https://github.com/yasmeenmh90-beep/flyrank-ai-fluency-portfolio-docs) · [live website](https://yasmeenazmat.com/) · [LinkedIn build-in-public story](https://www.linkedin.com/feed/update/urn:li:activity:7515693667693666306/) · [Website Launches record](https://websitelaunches.com/site/yasmeenazmat.com).
+- **Independent reproducibility limit:** The site's complete source is private. The README explains the steps available to authorized source holders but the public documentation alone cannot recreate the exact implementation.
+
 ## 03 · Engineering Story
 
 ### The challenge
@@ -135,13 +145,14 @@ The [README](README.md) preserves **dated** static verification, user-reported f
 - [x] Retrospective published
 - [x] Central FL-10 submission index prepared
 - [ ] Add direct, accessible links for Week 1–7 deliverables
-- [ ] Complete and verify the hours log in the portal
+- [ ] Confirm the portal's 151 estimated hours meet the FL-10 hours-log requirement
 - [x] Publish the build-in-public story with a real design decision and limitation
 - [ ] Clarify the FL-10 FlyRank-domain requirement for the current custom-domain deployment
 - [ ] Submit the package for written human sign-off or a scheduled review
-- [ ] Add the FlyRank graduate badge when officially issued
+- [x] Receive FlyRank AI Fluency credential and add its verified badge to the Certifications section
+- [ ] Confirm the badge also appears in the footer and links to FlyRank verification
 
-> **Important:** This document is a work-in-progress index, **not proof of final approval or graduation**. The final checkpoint requires human review and sign-off.
+> **Review boundary:** The AI Fluency track and impact capstone are qualified/accepted and the credential is issued. That is distinct from a separately documented **FL-10** written sign-off, which is not shown in this public index.
 
 ---
 
