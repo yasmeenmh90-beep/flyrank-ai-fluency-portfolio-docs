@@ -1,74 +1,144 @@
-# Send the Link: Launch, Demo & Story
-**FlyRank General AI Fluency — Second Capstone**
+<div align="center">
 
-**Project:** NEXA — Personal AI Operations Agent
+# ✦ NEXA
+### From Personal AI Assistant to Portfolio Case Study
 
-## 1. My Next Portfolio Case Study
+**SEND THE LINK · LAUNCH, DEMO & STORY**  
+*FlyRank General AI Fluency · Second Capstone · 2026*
 
-My next case study will focus on NEXA, a personal AI assistant project that I am developing with n8n and a React/TypeScript frontend.
+[![Capstone](https://img.shields.io/badge/FLYRANK-SECOND_CAPSTONE-8b5cf6?style=for-the-badge)](https://aifluency.flyrank.ai/week-10.html#send-the-link)
+[![Project Phase](https://img.shields.io/badge/NEXA-IN_DEVELOPMENT-ec4899?style=for-the-badge)](#03--next-development-milestone)
+[![Next Step](https://img.shields.io/badge/NEXT_STEP-ARCHITECTURE_REVIEW-334155?style=for-the-badge)](#03--next-development-milestone)
 
-My goal is to create two separate experiences:
+**[🌐 View AI/ML Portfolio ↗](https://yasmeenazmat.com/)** · **[📘 Portfolio Documentation ↗](README.md)** · **[📂 Final Submission Index ↗](FINAL_SUBMISSION_INDEX.md)**
 
-- **Private application:** An owner-only NEXA assistant at nexa.yasmeenazmat.com, with authenticated access to my existing AI workflows.
-- **Public case study:** A professional showcase on yasmeenazmat.com, explaining NEXA's architecture, engineering decisions, capabilities, challenges, and development progress.
+</div>
 
-The public showcase will use safe screenshots, explanations, and demonstration material without exposing private data or credentials.
+---
 
-## 2. How I Will Add the Case Study
+> **Project status:** NEXA is an active engineering project. This document outlines my **next case study and the repeatable process for publishing it**. The private application, authenticated external website gateway, and complete public showcase are **planned work, not claimed as launched**.
 
-I will add NEXA to the existing portfolio's Featured Projects and detailed project showcase using the same design system and the three-beat structure established earlier in the internship.
+## At a Glance
 
-**Problem:** Explain the challenge of accessing personal information and managing everyday activities across multiple tools, while maintaining privacy and user control.
+| | |
+|:---|:---|
+| **Capstone** | Send the Link: Launch, Demo & Story |
+| **Track** | FlyRank General AI Fluency |
+| **Next featured project** | **NEXA — Personal AI Operations Agent** |
+| **Project focus** | Agentic AI · Workflow Orchestration · Full-Stack Engineering · Privacy |
+| **Frontend under development** | React · TypeScript |
+| **Existing orchestration platform** | n8n |
+| **Next milestone** | Phase 14.1 — Read-only Architecture & Security Assessment |
+| **Public website** | [yasmeenazmat.com ↗](https://yasmeenazmat.com/) |
+| **Private NEXA domain** | `nexa.yasmeenazmat.com` — planned, owner-only |
+| **Reminder evidence** | Apple Reminders screenshot submitted with the accepted impact project; a refreshed follow-up is still to be scheduled |
 
-**What I Did:** Describe my work on the NEXA interface, n8n agent architecture, specialist routing, authentication strategy, read-only safeguards, and backend integration. I will distinguish implemented functionality from features still in development.
+## 01 · The Next Case Study
 
-**What Came of It:** Present verified functionality, screenshots, tests, a privacy-safe walkthrough, engineering lessons, and limitations. I will publish these results only after the relevant features are ready and tested.
+My next portfolio addition will document **NEXA**, a personal AI assistant project that brings together a frontend interface and an existing n8n-based assistant architecture.
 
-My update process will be:
+The aim is not simply to show a chatbot interface. I want to explain the engineering behind a personal AI system: its agent routing, controlled data access, integration boundaries, user experience, and the decisions required to make it useful without compromising privacy.
 
-1. Complete the required functionality and document test results.
-2. Collect architecture diagrams, screenshots, technical decisions, and safe demonstrations.
-3. Write the case study using Problem → What I Did → What Came of It.
-4. Add the case study to the existing portfolio without rebuilding its design.
-5. Verify mobile responsiveness, navigation, links, and project filtering.
-6. Deploy the update and review the live website.
+### One project · Two separate experiences
 
-## 3. My Next Piece of Work
+| 🔐 Private assistant | 🌐 Public project showcase |
+|:---|:---|
+| **Planned domain:** `nexa.yasmeenazmat.com` | **Portfolio:** [yasmeenazmat.com](https://yasmeenazmat.com/) |
+| Owner-only authenticated experience | Recruiter-friendly technical case study |
+| Text interaction and planned voice/avatar features | Architecture, screenshots, engineering decisions and walkthrough |
+| Secure server-side connection to permitted n8n specialist workflows | Safe sample content only — no real personal data |
+| Private integrations stay behind authentication | No public access to private endpoints or credentials |
 
-**NEXA — Private AI Assistant and Public Engineering Showcase**
+**Security boundary:** Any public example or simulated demo will remain isolated from the authenticated private-data API.
 
-My immediate development milestone is **Phase 14.1: Architecture and Security Assessment**.
+## 02 · How I Will Add the Case Study
 
-This is a read-only assessment of how the current n8n NEXA Agent can eventually connect to a secure external application without disrupting existing verified specialist workflows.
+I will reuse the existing portfolio's **Featured Projects** section, case-study structure, visual identity and navigation. Every new case study will follow the Week 2 three-beat method.
 
-The private application, authenticated gateway, and public showcase are planned development work, not claimed as fully deployed functionality.
+| 01 · Problem | 02 · What I Did | 03 · What Came of It |
+|:---|:---|:---|
+| What problem does NEXA solve, and why are privacy and control important? | Which frontend, orchestration, routing and security components did I implement, and what decisions did I make? | What actually works, how was it tested, what evidence can be shown, and what limitations remain? |
 
-## 4. Reminder and Continuing Commitment
+### Publication workflow
 
-I previously created a dated Apple Reminders task to continue NEXA development and add it as my next portfolio case study. The reminder was included in my accepted General AI Fluency impact-project evidence.
+- [ ] **Collect evidence** — current screenshots, architecture diagrams, test results, and safe demonstrations.
+- [ ] **Write the narrative** — Problem → What I Did → What Came of It, separating implemented work from planned features.
+- [ ] **Prepare public assets** — redact sensitive data; avoid publishing credentials, workflow secrets, or private activity.
+- [ ] **Create the project entry** — add NEXA to the portfolio's relevant project section with consistent styling and clear links.
+- [ ] **Check the experience** — test desktop and mobile layouts, project filters, navigation, images and outbound URLs.
+- [ ] **Publish and verify** — deploy through the existing workflow and inspect the production page before sharing it.
 
-I will maintain an updated follow-up reminder for the next NEXA milestone and retain a screenshot as proof.
+**Release rule:** I will publish the detailed NEXA case study after the described features have been independently checked and the public materials are safe to share.
 
-**Reminder evidence:** Original Apple Reminders screenshot from the accepted impact project, plus the updated reminder screenshot when scheduled.
+## 03 · Next Development Milestone
 
-## 5. Preserving My Claude Project
+### Phase 14.1 — Architecture and Security Assessment
 
-I will keep my existing Claude Project and portfolio development context, including:
+My immediate task is a **read-only architecture review** of the existing NEXA system. It will assess how an authenticated external frontend could safely communicate with n8n while keeping the established assistant behavior intact.
 
-- Portfolio identity kit, visual style, and writing voice
-- HTML/CSS/JavaScript website structure
-- Project-card and case-study formatting
-- Existing portfolio documentation
-- NEXA architecture notes and implementation decisions
+The assessment covers the existing chat input/session flow, specialist dependencies, possible shared core workflow, backend authentication, secure server-to-server invocation, auditing, platform limitations, backup strategy, migration impact and rollback options.
 
-This will allow me to create additional case studies consistently without rebuilding the portfolio from scratch.
+**Current engineering boundaries**
 
-## 6. Project Links
+- Preserve the existing verified **read-only specialist routing**.
+- Do not expose n8n credentials, webhook secrets or personal data to browser-side code.
+- Keep memory, action, proactive and other disconnected workflows outside this migration.
+- Avoid changing published workflows during the read-only assessment.
+- Keep the public showcase separate from all owner-only capabilities.
 
-**Public portfolio:** https://yasmeenazmat.com/
+**Expected output:** A reviewed architecture and phased implementation plan — **not a claim that the new private NEXA website is deployed**.
 
-**Portfolio documentation:** https://github.com/yasmeenmh90-beep/flyrank-ai-fluency-portfolio-docs
+## 04 · Reminder & Accountability
 
-**NEXA private application:** nexa.yasmeenazmat.com — planned deployment, not publicly available.
+A dated **Apple Reminders** task was already submitted as evidence with my accepted General AI Fluency impact project. It named NEXA as the next portfolio update and set a reminder for **October 12, 2026**. FlyRank's reviewer acknowledged this screenshot and the specificity of the planned work.
 
-**Submission statement:** This capstone documents a repeatable process for maintaining my portfolio, names my next real engineering project, identifies the next milestone, and preserves the context needed to continue building.
+Because that original reminder date has passed, I will set and document a fresh follow-up for the **Phase 14.1 assessment and next case-study update**.
+
+| Evidence | Status |
+|:---|:---|
+| Original named NEXA reminder and screenshot | ✅ Included with accepted impact-project submission |
+| New dated milestone reminder | ⏳ To be scheduled |
+| New reminder screenshot | ⏳ To be attached after it exists |
+| Actual NEXA public case-study release | ⏳ Future milestone |
+
+*I will retain the original reminder evidence and will not describe an unscheduled follow-up as completed.*
+
+## 05 · Preserving My Claude Project
+
+My existing Claude Project and portfolio codebase are the reusable context for future updates. I will retain the materials that define how the website looks, reads and works.
+
+| Context to retain | Purpose |
+|:---|:---|
+| **Identity kit and design language** | Keep typography, palette, layout and component styling consistent |
+| **Portfolio voice and case-study pattern** | Preserve clear, evidence-based technical explanations |
+| **Existing source and deployment approach** | Avoid rebuilding navigation and project-card behavior |
+| **NEXA architecture decisions** | Record trade-offs, security constraints and verified capabilities |
+| **Testing and publishing checklist** | Repeat link, responsiveness, accessibility and content checks |
+
+With this context preserved, a new case study becomes a focused update rather than a new website project.
+
+## 06 · Submission Evidence
+
+| Deliverable | Evidence / location |
+|:---|:---|
+| **Next case-study plan** | This document — `NEXT_CASE_STUDY_PLAN.md` |
+| **Named next piece** | NEXA — Personal AI Operations Agent, Phase 14.1 |
+| **Earlier reminder evidence** | Accepted General AI Fluency impact-project submission in FlyRank; original Apple Reminders screenshot |
+| **New reminder evidence** | Add screenshot after scheduling the next date |
+| **Preserved build context** | Existing Claude Project and ongoing portfolio development workspace |
+| **Public portfolio** | [yasmeenazmat.com ↗](https://yasmeenazmat.com/) |
+| **Documentation repository** | [FlyRank AI Fluency portfolio docs ↗](https://github.com/yasmeenmh90-beep/flyrank-ai-fluency-portfolio-docs) |
+
+> **Submission scope:** This capstone establishes the **where**, **how**, **what next**, and **when** for my future portfolio work. It does not require me to expose NEXA's private system or claim unfinished functionality as a released product.
+
+---
+
+<div align="center">
+
+### Build with purpose. Verify the result. Share the evidence.
+
+**[🌐 Portfolio](https://yasmeenazmat.com/)** · **[📘 Documentation](README.md)** · **[📂 Final Index](FINAL_SUBMISSION_INDEX.md)**
+
+<sub>FlyRank General AI Fluency · NEXA Next Case Study Plan · 2026</sub>
+
+</div>
