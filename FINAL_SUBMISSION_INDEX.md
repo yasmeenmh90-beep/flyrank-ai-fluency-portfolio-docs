@@ -62,48 +62,115 @@ This file is the **single entry point** for the FlyRank General AI Fluency final
 
 ## 02 · Track-Wide Evidence
 
-The work below was submitted in the [FlyRank internship portal ↗](https://internship.flyrank.ai/). **FlyRank lists 24 AI Fluency assignments with recorded evidence, and the accepted impact project in its track evidence transcript.** A submitted assignment is not automatically a public, reviewer-accessible evidence link. Direct artifact URLs or accessible evidence bundles are still needed to make this index complete.
+The **General AI Fluency Track evidence transcript** provided by the participant records **24 assignments** and one accepted impact capstone. The timestamps below are reproduced from FlyRank's transcript; they are submission/recording timestamps, **not individual work-session clock-in and clock-out records**. Some entries display **“Open submitted evidence”** in the portal, but their actual destination URLs were not supplied. Consequently those entries are not falsely represented as public artifact links.
 
 <details>
-<summary><strong>Weeks 1–3 · Define, Frame & Design</strong></summary>
+<summary><strong>Week 1 — 3 recorded assignments</strong></summary>
 
-| Week | Assignment coverage | Supporting evidence |
+| Assignment | FlyRank recorded timestamp | Portal evidence |
 |:---|:---|:---|
-| **01 — Define** | Workflow audit and AI tools; proof statement; sitemap and toolkit; ML starter notebooks and research question | **To add:** Week 1 artifacts |
-| **02 — Frame** | Project case studies; prompt ladder; real-task prompting; ML task definition | **To add:** Week 2 artifacts |
-| **03 — Design** | Identity kit; image curation; content and CTA map; data contract | **To add:** Week 3 artifacts |
+| AI Workflow Audit and Tool Setup | Sep 21, 2026 · 4:26 PM | Open submitted evidence shown in portal; direct URL not provided |
+| What Are You Proving? | Sep 22, 2026 · 2:01 PM | Recorded; no evidence link displayed in transcript |
+| Draw the Path: Portfolio Sitemap + Toolkit | Sep 22, 2026 · 8:59 AM | Open submitted evidence shown in portal; direct URL not provided |
 
 </details>
 
 <details>
-<summary><strong>Weeks 4–5 · Build & Deploy</strong></summary>
+<summary><strong>Week 2 — 3 recorded assignments</strong></summary>
 
-| Week | Assignment coverage | Supporting evidence |
+| Assignment | FlyRank recorded timestamp | Portal evidence |
 |:---|:---|:---|
-| **04 — Build** | First live page; stack selection; automation workflow; agents/MCP fundamentals; ML baseline | **To add:** Week 4 artifacts |
-| **05 — Expand** | Explain the build; personal agent design and implementation; portfolio deployment; ML modeling | **To add:** Week 5 artifacts |
+| Frame It as Cases: Work That Speaks for Itself | Sep 24, 2026 · 12:21 PM | Open submitted evidence shown in portal; direct URL not provided |
+| The Prompt Ladder | Sep 24, 2026 · 1:33 PM | Recorded; no evidence link displayed in transcript |
+| Prompting Fundamentals on Real Tasks v2 | Sep 25, 2026 · 12:16 PM | Open submitted evidence shown in portal; direct URL not provided |
 
 </details>
 
 <details>
-<summary><strong>Weeks 6–7 · Test, Improve & Launch</strong></summary>
+<summary><strong>Week 3 — 4 recorded assignments</strong></summary>
 
-| Week | Assignment coverage | Supporting evidence |
+| Assignment | FlyRank recorded timestamp | Portal evidence |
 |:---|:---|:---|
-| **06 — Validate** | Functional contact feature; mobile experience; critique; ML validation audit | **To add:** Week 6 artifacts |
-| **07 — Launch** | Site hardening; domain and badge planning; ML action playbook | [Live portfolio ↗](https://yasmeenazmat.com/) · **To add:** Week 7 report and artifacts |
+| Kill your darlings: Curate Your Images | Sep 25, 2026 · 4:21 PM | Recorded; no evidence link displayed in transcript |
+| Decide Once: Build Your Identity Kit | Sep 25, 2026 · 3:48 PM | Recorded; no evidence link displayed in transcript |
+| The Through-Line: Map Content & CTAs | Sep 25, 2026 · 5:07 PM | Recorded; no evidence link displayed in transcript |
+| Consistency, Not Talent (and Frame, Not Upstage) | Sep 25, 2026 · 3:24 PM | Recorded; no evidence link displayed in transcript |
+
+</details>
+
+<details>
+<summary><strong>Week 4 — 4 recorded assignments</strong></summary>
+
+| Assignment | FlyRank recorded timestamp | Portal evidence |
+|:---|:---|:---|
+| Three Roads: Choose Your Stack with AI | Sep 26, 2026 · 9:52 AM | Recorded; no evidence link displayed in transcript |
+| Empty but Live: Ship a Blank Page | Sep 25, 2026 · 10:53 PM | Open submitted evidence shown in portal; direct URL not provided |
+| Ship an Automation Workflow v2 | Sep 26, 2026 · 2:17 PM | Open submitted evidence shown in portal; direct URL not provided |
+| Agent Concepts and MCP Basics | Sep 26, 2026 · 3:31 PM | Open submitted evidence shown in portal; direct URL not provided |
+
+</details>
+
+<details>
+<summary><strong>Week 5 — 4 recorded assignments</strong></summary>
+
+| Assignment | FlyRank recorded timestamp | Portal evidence |
+|:---|:---|:---|
+| Explain It Like You Built It | Sep 28, 2026 · 1:51 PM | Open submitted evidence shown in portal; direct URL not provided |
+| Design Your Personal Agent | Sep 28, 2026 · 5:42 PM | Recorded; no evidence link displayed in transcript |
+| Build the Agent | Sep 30, 2026 · 1:58 PM | Open submitted evidence shown in portal; direct URL not provided |
+| Personal Website Live on the FlyRank Domain | Oct 3, 2026 · 9:42 AM | Open submitted evidence shown in portal; direct URL not provided |
+
+</details>
+
+<details>
+<summary><strong>Week 6 — 3 recorded assignments</strong></summary>
+
+| Assignment | FlyRank recorded timestamp | Portal evidence |
+|:---|:---|:---|
+| Survive the Crit | Oct 5, 2026 · 10:14 AM | Open submitted evidence shown in portal; direct URL not provided |
+| Open It on Your Phone | Oct 4, 2026 · 2:32 PM | Open submitted evidence shown in portal; direct URL not provided |
+| Make It Do Something | Oct 4, 2026 · 6:14 AM | Recorded; no evidence link displayed in transcript |
+
+</details>
+
+<details>
+<summary><strong>Week 7 — 2 recorded assignments</strong></summary>
+
+| Assignment | FlyRank recorded timestamp | Portal evidence |
+|:---|:---|:---|
+| Break Your Own Site | Oct 8, 2026 · 7:34 AM | Open submitted evidence shown in portal; direct URL not provided |
+| Plant Your Flag: Domain + Badge | Oct 13, 2026 · 9:49 AM | Open submitted evidence shown in portal; direct URL not provided |
 
 </details>
 
 <details open>
-<summary><strong>Week 8 · Final Demonstration & Capstone</strong></summary>
+<summary><strong>Week 8 — 1 recorded assignment</strong></summary>
 
-| Assignment | Deliverables | Evidence |
+| Assignment | FlyRank recorded timestamp | Portal evidence |
 |:---|:---|:---|
-| **FL-09 — Show It / Tell the Story** | Public README and narrated live demo | [README](README.md) · [Demo ↗](https://www.youtube.com/watch?v=45gVlp1G5Wk) |
-| **FL-10 — Final Package** | Index, retrospective, public story, hours log and human review | [Retrospective](RETROSPECTIVE.md) · [LinkedIn story ↗](https://www.linkedin.com/feed/update/urn:li:activity:7515693667693666306/) · Hours and review **pending** |
+| Show It / Tell the Story (FL-09) | Oct 13, 2026 · 8:49 AM | Open submitted evidence shown in portal; direct URL not provided |
 
 </details>
+
+### Accepted General AI Fluency impact project
+
+| Entry | FlyRank record |
+|:---|:---|
+| **General AI Fluency · Impact Project** | **Accepted** · October 5, 2026, 11:12 AM |
+| **Mentor feedback** | Positive feedback on the *Problem → What I Did → What Came of It* structure and the specific NEXA reminder supported by a dated Apple Reminders screenshot |
+| **Future improvement mentioned by mentor** | When NEXA is ready, capture one concise outcome or learning statement to strengthen its case study |
+| **Evidence location** | **“Open submitted evidence”** in FlyRank's Track evidence transcript; direct URL not yet supplied |
+
+### Week 8 final checkpoint package
+
+| Component | Evidence |
+|:---|:---|
+| **FL-09 documentation + demo** | [README](README.md) · [3:07 demo ↗](https://www.youtube.com/watch?v=45gVlp1G5Wk) |
+| **FL-10 retrospective** | [Retrospective](RETROSPECTIVE.md) |
+| **FL-10 public story** | [LinkedIn build-in-public post ↗](https://www.linkedin.com/feed/update/urn:li:activity:7515693667693666306/) |
+| **FL-10 hours and review** | [Issued FlyRank progress-report verification](https://internship.flyrank.ai/verify?id=FR-D7-B109D-82922) · final checkpoint sign-off not separately confirmed |
+
+**Evidence access:** [FlyRank internship portal ↗](https://internship.flyrank.ai/) — transcript and “Open submitted evidence” controls may require reviewer authentication. To satisfy the literal FL-10 criterion of *every deliverable present and reachable from the index*, attach direct artifact links or an accessible evidence bundle as they become available.
 
 ### Official program evidence
 
