@@ -1,25 +1,27 @@
 <div align="center">
 
-# ✦ FROM PROJECTS TO PROOF
+<sub><strong>FL-10  /  FINAL SUBMISSION DOSSIER</strong></sub>
 
-### AI/ML Engineering Portfolio
-**FlyRank AI Fluency · Final Submission & Evidence Index · FL-10**
+# ✦ From Projects to Proof
 
-*Building intelligent systems. Showing the engineering behind them.*
+### Submission Index & Evidence Register
 
-[![Portfolio Live](https://img.shields.io/badge/PORTFOLIO-LIVE-ec4899?style=for-the-badge)](https://yasmeenazmat.com/)
-[![AI Fluency](https://img.shields.io/badge/AI_FLUENCY-QUALIFIED-16a34a?style=for-the-badge)](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen)
-[![Impact Project](https://img.shields.io/badge/IMPACT_PROJECT-ACCEPTED-8b5cf6?style=for-the-badge)](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen)
-[![FL10 Review](https://img.shields.io/badge/FL--10_REVIEW-CONFIRMATION_PENDING-64748b?style=for-the-badge)](https://internship.flyrank.ai/)
+One place for the deployed portfolio, demonstration, project records, credential verification, recorded hours, and outstanding reviewer checks.
 
-**Yasmeen Azmat Ali**  
-*Applied AI · Machine Learning · Agentic Systems · Software Engineering*
+[![AI FLUENCY: QUALIFIED](https://img.shields.io/badge/AI_FLUENCY-QUALIFIED-22c55e?style=flat-square)](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen) &nbsp; [![IMPACT PROJECT: ACCEPTED](https://img.shields.io/badge/IMPACT_PROJECT-ACCEPTED-8b5cf6?style=flat-square)](https://internship.flyrank.ai/) &nbsp; [![FL-10 SIGN OFF: NOT CONFIRMED](https://img.shields.io/badge/FL-10_SIGN_OFF-NOT_CONFIRMED-64748b?style=flat-square)](https://internship.flyrank.ai/)
 
-[**🌐 Visit Website**](https://yasmeenazmat.com/) &nbsp;·&nbsp; [**🎬 Watch Demo**](https://www.youtube.com/watch?v=45gVlp1G5Wk) &nbsp;·&nbsp; [**📘 Technical README**](README.md) &nbsp;·&nbsp; [**✍️ Retrospective**](RETROSPECTIVE.md)
+**Yasmeen Azmat Ali** · 2026
+
+[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md)
 
 </div>
 
 ---
+
+> **On this page:** [Project overview](#01--project-overview) · [Deliverables](#02--final-deliverables) · [Weekly evidence](#04--weekly-assignment-transcript) · [Credentials](#05--flyrank-credential-and-verification) · [Hours](#06--recorded-hours-and-progress-report) · [Review checklist](#08--final-review-checklist)
+
+---
+
 
 > **Reviewer note:** The FlyRank portal shows the **General AI Fluency track qualified**, with **24 recorded assignments** and an **accepted impact project**. The D11 credential is issued. This public index gathers the final deliverables and issuer records; a separate written **FL-10 final-checkpoint sign-off has not been confirmed**.
 
@@ -63,7 +65,7 @@
 
 ### Continuing the portfolio · NEXA next case study
 
-The **second General AI Fluency capstone** documents the ongoing NEXA project and its repeatable publication plan: **[Read the NEXA next-case-study plan](NEXT_CASE_STUDY_PLAN.md) · **[NEXA testing report](NEXA_TESTING_REPORT.md)**** · **[Explore NEXA public showcase ↗](https://nexa-public.netlify.app/)**. The NEXA site URL was provided by the participant; independent production testing is pending. The showcase uses fictional demonstration data, while authenticated personal workflows remain separate and not publicly accessible.
+The **second General AI Fluency capstone** documents the ongoing NEXA project and its repeatable publication plan: **[Read the NEXA next-case-study plan](NEXT_CASE_STUDY_PLAN.md)** · **[NEXA testing report](NEXA_TESTING_REPORT.md)** · **[Explore NEXA public showcase ↗](https://nexa-public.netlify.app/)**. Participant-supplied screenshots document core demo interactions, mobile layouts and a Lighthouse audit; independent private-system/security testing is outside this report. The showcase uses fictional demonstration data, while authenticated personal workflows remain separate and not publicly accessible.
 
 ## 03 · Engineering Story
 
@@ -272,10 +274,10 @@ The original PDF is available to the participant through FlyRank Documents. This
 
 <div align="center">
 
-### Build it. Verify it. Document it. Share it.
+**Built with care · Evaluated with evidence · Presented with transparency**
 
-[**Portfolio ↗**](https://yasmeenazmat.com/) &nbsp;·&nbsp; [**Technical README ↗**](README.md) &nbsp;·&nbsp; [**Narrated Demo ↗**](https://www.youtube.com/watch?v=45gVlp1G5Wk) &nbsp;·&nbsp; [**Retrospective ↗**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**Verified Credential ↗**](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen)
+[**Overview**](README.md) &nbsp;·&nbsp; [**Final Evidence Index**](FINAL_SUBMISSION_INDEX.md) &nbsp;·&nbsp; [**Retrospective**](RETROSPECTIVE.md) &nbsp;·&nbsp; [**NEXA Roadmap**](NEXT_CASE_STUDY_PLAN.md) &nbsp;·&nbsp; [**NEXA Testing**](NEXA_TESTING_REPORT.md)
 
-<sub>FlyRank General AI Fluency · From Projects to Proof · 2026</sub>
+<sub>FlyRank General AI Fluency · Yasmeen Azmat Ali · 2026</sub>
 
 </div>
