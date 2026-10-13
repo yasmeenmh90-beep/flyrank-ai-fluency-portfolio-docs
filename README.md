@@ -291,27 +291,36 @@ I built and refined this portfolio with assistance from Claude AI, particularly 
 
 ## 🗺️ Development Roadmap
 
-### Completed
+### ✅ Completed & documented
 
-- [x] Build and deploy the portfolio
-- [x] Receive FlyRank Impact Project approval
-- [x] Implement responsive design and animations
-- [x] Redesign the Capstone section
-- [x] Conduct desktop and mobile user testing
-- [x] Record initial static and performance evaluations
-- [x] Publish updated technical documentation
+- [x] Build and deploy the AI/ML engineering portfolio at [yasmeenazmat.com](https://yasmeenazmat.com/)
+- [x] Receive FlyRank General AI Fluency Impact Project approval
+- [x] Implement responsive design, project exploration, and animations
+- [x] Redesign the FlyRank Capstone section
+- [x] Conduct desktop and mobile testing of the portfolio and record initial static/performance results
+- [x] Publish the technical documentation, evidence index, and retrospective
+- [x] Record the [3:07 narrated demonstration](https://www.youtube.com/watch?v=45gVlp1G5Wk)
+- [x] Submit documentation and demo links to FlyRank (FL-09 evidence recorded; separate review decision not documented)
+- [x] Add the issued [FlyRank AI Fluency credential](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen) and verified badge to the portfolio **Certifications** section
+- [x] Publish the [NEXA public engineering case study and sample demo](https://nexa-public.netlify.app/)
+- [x] Document [NEXA functional, responsive, and accessibility testing](NEXA_TESTING_REPORT.md)
 
-### Next Improvements
+### 🔬 Evidence and scope
 
-- [ ] Re-run PageSpeed on the final deployed website
-- [ ] Document remaining functional and accessibility checks
-- [x] Record the narrated FlyRank demonstration
-- [x] Submit documentation and demo links to FlyRank (FL-09 evidence recorded; review outcome not separately documented)
-- [ ] Add more technical case studies and live demonstrations
-- [ ] Complete and validate NEXA
-- [x] Add the issued FlyRank AI Fluency credential badge to the Certifications section
-- [ ] Confirm credential badge appears in the footer as required by Week 7
-- [ ] Confirm FL-10 review/sign-off and hours-log completion
+The **NEXA public demonstration** was tested with sample actions and fictional content; the user also checked responsive device previews, navigation/FAQ interactions, and browser network activity. A supplied **NEXA Lighthouse** screenshot shows **Performance 100, Accessibility 96, Best Practices 100, and SEO 100** for that audit. These scores apply to **NEXA**, **not** to yasmeenazmat.com, and automated scores do not establish a complete manual accessibility or security audit. NEXA's secure private backend remains planned.
+
+The portfolio's separately recorded **October 11 PageSpeed** results above refer to an earlier portfolio version. A fresh, documented final-version portfolio audit is still needed.
+
+### 📌 Remaining work / external confirmation
+
+- [ ] Re-run and record PageSpeed for the **final deployed portfolio** (desktop and mobile)
+- [ ] Complete and document any outstanding **portfolio-specific** keyboard/accessibility and end-to-end checks; do not treat NEXA testing as a substitute
+- [ ] Expand technical project case studies and live demonstrations
+- [ ] Continue **NEXA's private authenticated backend integration**, security review, and production validation (public prototype is already live)
+- [ ] Verify whether the Week 7 badge also appears in the **website footer**; the Certifications placement is confirmed and the Week 7 evidence was recorded
+- [ ] Obtain explicit **FL-10 final review/sign-off** and confirmation that the portal-generated hours log satisfies the checkpoint
+
+**Tracking note:** Completed checkboxes indicate work supported by the recorded project evidence, not independent FlyRank approval of every final checkpoint.
 
 ---
 
