@@ -61,6 +61,10 @@
 
 **Original five links submitted to FlyRank:** [Demo](https://www.youtube.com/watch?v=45gVlp1G5Wk) · [Documentation repo](https://github.com/yasmeenmh90-beep/flyrank-ai-fluency-portfolio-docs) · [Live site](https://yasmeenazmat.com/) · [LinkedIn story](https://www.linkedin.com/posts/yasmeen-azmat-a02b44340_flyrank-aifluency-aiengineering-ugcPost-7515709803814465536-py0s/) · [Website Launches](https://websitelaunches.com/site/yasmeenazmat.com).
 
+### Continuing the portfolio · NEXA next case study
+
+The **second General AI Fluency capstone** documents the ongoing NEXA project and its repeatable publication plan: **[Read the NEXA next-case-study plan](NEXT_CASE_STUDY_PLAN.md)** · **[Explore NEXA public showcase ↗](https://nexa-public.netlify.app/)**. The NEXA site URL was provided by the participant; independent production testing is pending. The showcase uses fictional demonstration data, while authenticated personal workflows remain separate and not publicly accessible.
+
 ## 03 · Engineering Story
 
 | | |
