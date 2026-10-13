@@ -154,7 +154,7 @@ http://localhost:8000
 
 Check navigation, images, project cards, animations, CV download, and contact behavior.
 
-**Reproducibility limitation:** This public evidence repository does not contain the complete source. The source ZIP and detailed local preview instructions are available in the [separate private portfolio-source repository](https://github.com/yasmeenmh90-beep/ai-ml-portfolio-source); reviewers need a verified collaborator invitation, and a successful local reproduction is still awaiting confirmation.
+**Reproducibility limitation:** This public evidence repository does not contain the complete source. The source ZIP and detailed local preview instructions are available in the [separate private portfolio-source repository](https://github.com/yasmeenmh90-beep/ai-ml-portfolio-source); reviewers need a verified collaborator invitation, and the owner reports prior local testing, although an independent reviewer run of the exact ZIP has not been verified.
 
 </details>
 
@@ -210,7 +210,7 @@ These results apply to the inspected earlier package.
 <details>
 <summary><b>🧪 Additional Verification Boundaries</b></summary>
 
-The following checks still need documented end-to-end results:
+The following checks lack separate reviewer-ready final-version logs in this repository (the owner reports having performed the relevant website testing):
 
 - Individual external-link destinations
 - CV download behavior
@@ -314,7 +314,7 @@ I built and refined this portfolio with assistance from Claude AI, particularly 
 
 **Path B — Run a local copy (authorized source holders only).** Obtain the site's original `index.html`, referenced CSS/JS and all assets from the private implementation; preserve the original directory structure; from the project root run `python3 -m http.server 8000` and visit `http://localhost:8000`. Verify that relative assets load. Form delivery, custom-domain configuration and other hosted services may require separate Netlify configuration and **are not reproduced by a local static server**.
 
-**Open FL-09 criterion:** Because these files are not supplied in this public documentation repository, a stranger **cannot independently rebuild the full website from this README alone**. To satisfy strict source-level reproducibility, publish a sanitized runnable copy/example and pinned prerequisites, or provide reviewer access to the complete source and explicit setup instructions. Do not publish credentials or private configurations.
+**Open FL-09 criterion:** The portfolio owner reports having tested the static site previously. However, because these files are not supplied in this public documentation repository, an unaffiliated stranger **cannot independently rebuild the full website from this README alone**. To satisfy strict source-level reproducibility, publish a sanitized runnable copy/example and pinned prerequisites, or provide reviewer access to the complete source and explicit setup instructions. Do not publish credentials or private configurations.
 
 ### Evaluation methodology and limitations
 
@@ -342,7 +342,7 @@ I built and refined this portfolio with assistance from Claude AI, particularly 
 - [x] Conduct desktop and mobile testing of the portfolio and record initial static/performance results
 - [x] Publish the technical documentation, evidence index, and retrospective
 - [x] Record the [3:07 narrated demonstration](https://www.youtube.com/watch?v=45gVlp1G5Wk)
-- [x] Submit documentation and demo links to FlyRank (FL-09 evidence recorded; separate review decision not documented)
+- [ ] Submit the portfolio README and 3:07 demo in the separate **Documentation and Demo Video (FL-09)** portal entry (last screenshot: **Not started**). Other Week 8 submissions do not substitute for FL-09.
 - [x] Add the issued [FlyRank AI Fluency credential](https://internship.flyrank.ai/verify?id=FR-D11-46948-FE5B2&first_name=Yasmeen) and verified badge to the portfolio **Certifications** section
 - [x] Publish the [NEXA public engineering case study and sample demo](https://nexa-public.netlify.app/)
 - [x] Document [NEXA functional, responsive, and accessibility testing](NEXA_TESTING_REPORT.md)
