@@ -289,6 +289,46 @@ I built and refined this portfolio with assistance from Claude AI, particularly 
 
 ---
 
+## 🎥 FL-09 · Documentation and Demo Verification
+
+**Assessment scope:** FlyRank General AI Fluency, FL-09 (“Documentation and Demo Video”). The assessed project is **From Projects to Proof — AI/ML Engineering Portfolio** at [yasmeenazmat.com](https://yasmeenazmat.com/). The separate [NEXA public demo](https://nexa-public.netlify.app/) and [NEXA testing report](NEXA_TESTING_REPORT.md) are additional project evidence, **not substitutes for the portfolio's evaluation or installation instructions**.
+
+### Submission evidence and coverage
+
+| FL-09 criterion | Recorded evidence | Assessment boundary |
+|:---|:---|:---|
+| What it does and for whom | [Project Snapshot](#-project-snapshot) and [The Story Behind the Project](#-the-story-behind-the-project) | Documented |
+| Usage examples and architecture | [Explore the Portfolio](#-explore-the-portfolio), [System Architecture](#️-system-architecture) | Browser usage is reproducible; source build is not |
+| 3–5-minute video | [Narrated walkthrough — 3:07](https://www.youtube.com/watch?v=45gVlp1G5Wk) | Runtime documented; narration/content mapped below, not independently re-audited here |
+| Live end-to-end path | Recorded sequence: open portfolio → browse/filter projects → follow InvoiceGuard evidence → test contact form and inspect Netlify Forms | Described in timestamped demo log; separate playback verification recommended |
+| Design decision explained | 0:40–1:24: evidence-first featured projects and filters; compact project-card presentation | Documented video segment |
+| Limitation explained | 2:40–2:52: portfolio PageSpeed desktop **98**, mobile **71** from the referenced run | Applies to the portfolio, **not** NEXA Lighthouse |
+| Evaluation results | [Portfolio PageSpeed and static checks](#-performance--quality) below | Earlier-version/single-run results, with dates and limits |
+| Setup a stranger can reproduce from README alone | **Not yet met** for a full independent local build: source and assets are private | Public live-site usage is accessible without installation |
+
+### Reproducibility: two distinct paths
+
+**Path A — Review the public deployment (available to anyone).** Open [yasmeenazmat.com](https://yasmeenazmat.com/), navigate Featured Projects, use filters, open linked demos/repos, review certifications, and try the contact form with non-sensitive test data. This reproduces the **visitor-facing experience**, not the underlying source build.
+
+**Path B — Run a local copy (authorized source holders only).** Obtain the site's original `index.html`, referenced CSS/JS and all assets from the private implementation; preserve the original directory structure; from the project root run `python3 -m http.server 8000` and visit `http://localhost:8000`. Verify that relative assets load. Form delivery, custom-domain configuration and other hosted services may require separate Netlify configuration and **are not reproduced by a local static server**.
+
+**Open FL-09 criterion:** Because these files are not supplied in this public documentation repository, a stranger **cannot independently rebuild the full website from this README alone**. To satisfy strict source-level reproducibility, publish a sanitized runnable copy/example and pinned prerequisites, or provide reviewer access to the complete source and explicit setup instructions. Do not publish credentials or private configurations.
+
+### Evaluation methodology and limitations
+
+| System | Evaluation evidence | Observed result | What it does *not* establish |
+|:---|:---|:---|:---|
+| **Portfolio** | October 11 PageSpeed Insights, prior version | Desktop **98/100**, mobile **71–72/100**, Accessibility/Best Practices/SEO **100/100** | Performance of the latest deployed version |
+| **Portfolio** | October 11 static inspection, prior package | **15/15** local asset paths resolved; **16** section anchors inspected, **0** unresolved; **10/10** alt text nonempty; **4/4** inspection categories passed | Complete runtime, cross-browser, contact delivery, or WCAG compliance |
+| **NEXA public prototype** | October 13 visual sample-interaction review | **10/10** visible demo scenarios matched expected display behavior | Automated integration tests or live AI/n8n execution |
+| **NEXA public prototype** | One Chrome Lighthouse screenshot | Performance **100**, Accessibility **96**, Best Practices **100**, SEO **100** | A portfolio score or a comprehensive accessibility/security audit |
+
+**v2 disclosure:** No separate measured *v2 versus baseline* evaluation dataset or before/after benchmark has been provided for the portfolio or private NEXA agent. The numbers above are the actual recorded checks; they must not be presented as a validated v2 improvement or an agent accuracy score. The private n8n workflow screenshots document designs/publication states, not successful workflow execution.
+
+**Video verification limit:** The table in [Live Demonstration](#-live-demonstration) records the participant's timestamped walkthrough. Without independently playing and hearing the video, this documentation does not certify audio clarity or exactly what narration was spoken.
+
+---
+
 ## 🗺️ Development Roadmap
 
 ### ✅ Completed & documented
