@@ -154,7 +154,7 @@ http://localhost:8000
 
 Check navigation, images, project cards, animations, CV download, and contact behavior.
 
-**Reproducibility limitation:** This documentation repository does not contain the complete source files needed to independently rebuild the website.
+**Reproducibility limitation:** This public evidence repository does not contain the complete source. The source ZIP and detailed local preview instructions are available in the [separate private portfolio-source repository](https://github.com/yasmeenmh90-beep/ai-ml-portfolio-source); reviewers need a verified collaborator invitation, and a successful local reproduction is still awaiting confirmation.
 
 </details>
 
@@ -288,6 +288,8 @@ I built and refined this portfolio with assistance from Claude AI, particularly 
 **Demo video:** [Watch the demo](https://www.youtube.com/watch?v=45gVlp1G5Wk)
 
 ---
+
+> **Portal status update · October 14, 2026:** The General AI Fluency track shows **25/26** assignments, and **Documentation and Demo Video (FL-09)** is still marked **Not started**, despite existing documentation and the 3:07 portfolio video. The two previously submitted Week 8 AI Fluency items remain separate. The complete NEXA engineering case-study documentation now lives in the [dedicated NEXA repository](https://github.com/yasmeenmh90-beep/nexa-ai-operations-assistant), not in the private portfolio source.
 
 ## 🎥 FL-09 · Documentation and Demo Verification
 
